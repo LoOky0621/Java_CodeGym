@@ -1,0 +1,15 @@
+Schreib ein Programm, das fünfmal den Satz „Ellie ist clever“ ausgibt. Der Satz soll jedes Mal in einer eigenen Zeile stehen.
+
+Beispiel-Ausgabe:
+Ellie ist clever
+Ellie ist clever
+Ellie ist clever
+Ellie ist clever
+Ellie ist clever
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der Text muss mit „Ellie“ beginnen.
+•	Der Text muss mit „clever“ enden.
+•	Der Text muss aus fünf Zeilen bestehen.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

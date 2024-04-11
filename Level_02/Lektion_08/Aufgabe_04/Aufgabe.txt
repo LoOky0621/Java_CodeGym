@@ -1,0 +1,14 @@
+Schreibe eine Funktion, welche die kleinste der vier Zahlen berechnet.
+Die Funktion min(a, b, c, d) muss die Funktion min(a, b) verwenden (aufrufen).
+
+Hinweis:
+Du musst den Rumpf der beiden bestehenden min-Funktionen schreiben.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Die min-Methoden dürfen keinen Text auf dem Bildschirm anzeigen.
+•	Die Methode main muss min(a, b) und min(a, b, c, d) aufrufen.
+•	Die Methode main muss das Ergebnis der min-Methoden anzeigen. Der Satz soll jedes Mal in einer eigenen Zeile stehen.
+•	Die Methode min(a, b) muss die kleinere Zahlen a und b zurückgeben.
+•	Die Methode min(a, b, c, d) muss die Methode min(a, b) verwenden.
+•	Die Methode min(a, b, c, d) muss die kleinste der Zahlen a, b, c und d zurückgeben.

@@ -1,0 +1,13 @@
+Schreib ein Programm mit der Ausgabe: „Amigo ist sehr schlau“.
+
+Beispiel-Ausgabe:
+Amigo ist sehr schlau
+
+Hast du das Problem mit der Aufgabe, klicke den Hinweisknopf.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der Text muss mit „Amigo“ beginnen.
+•	Der Text muss mit „schlau“ enden.
+•	Der Text einschließlich Leerzeichen und Satzzeichen muss genau 21 Zeichen lang sein.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

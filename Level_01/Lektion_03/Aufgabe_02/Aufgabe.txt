@@ -1,0 +1,10 @@
+Deklariere eine String-Variable namens name.
+Weise der Variablen in der gleichen Zeile, in der sie deklariert wird, sofort einen Wert zu.
+Lass die Variable name auf dem Bildschirm ausgeben.
+
+Anforderungen:
+•	Deklariere in der Methode main eine String-Variable.
+•	Die Variable muss name heißen.
+•	Der Variablen muss sofort ein Wert zugewiesen werden.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Der Ausgabetext muss der Wert der Variablen sein.

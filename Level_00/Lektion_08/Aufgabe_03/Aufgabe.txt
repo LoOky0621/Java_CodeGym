@@ -1,0 +1,11 @@
+Kommentiere einige Zeilen aus, so das auf dem Bildschirm
+2 plus 3 ist gleich 5
+ausgegeben wird.
+
+Hinweis: Du darfst die Zeilen, in denen Variablen deklariert werden, nicht auskommentieren.
+
+Anforderungen:
+•	Das Programm muss auf dem Bildschirm „2 plus 3 ist gleich 5“ ausgeben.
+•	Mach keine Änderungen in der Zeile, in der Variablen deklariert werden.
+•	Du musst mindestens eine Zeile auskommentieren.
+•	Du darfst keine Befehle ändern oder hinzufügen, die für Ausgaben zuständig sind. Du darfst sie jedoch auskommentieren.

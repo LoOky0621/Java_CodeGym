@@ -1,0 +1,11 @@
+Zeige das Produkt der 10 Zahlen von 1 bis 10 an.
+Das Ergebnis ist eine einzelne Zahl.
+
+Hinweis:
+Irgendetwas über drei Millionen.
+
+Anforderungen:
+•	Das Programm muss eine ganze Zahl anzeigen.
+•	Die Methode main muss die Methode System.out.println aufrufen.
+•	Die angezeigte Zahl muss größer sein als drei Millionen.
+•	Die angezeigte Zahl muss die Bedingungen der Aufgabe erfüllen.

@@ -1,0 +1,9 @@
+Ändere das Programm so, dass folgender Text ausgegeben wird:
+Programmieren in Java
+Benutze Variablen.
+
+Anforderungen:
+•	Drei Variablen müssen deklariert werden.
+•	Allen Variablen muss sofort nach der Deklaration ein Wert zugewiesen werden.
+•	Du darfst den Bildschirmausgabe-Befehl nicht ändern.
+•	Das Programm soll den Text „Programmieren in Java“ ausgeben.

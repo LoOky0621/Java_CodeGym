@@ -1,0 +1,14 @@
+Amigo, heute ist es unsere Aufgabe, den Schiffspool zu füllen. Berechne, wie viel Liter Wasser benötigt werden, um das Becken bis zum Rand zu füllen. Wir wissen, dass der Pool lineare Abmessungen a x b x c, angegeben in Metern, besitzt.
+Diese Abmessungen werden an die Methode volumenBerechnen übergeben. Die Methode muss die Wassermenge in Liter zurückgeben, die zum Befüllen des Beckens benötigt wird.
+
+Betrachte dieses Beispiel:
+Die Methode volumenBerechnen wird mit den Parametern 25, 5 und 2 aufgerufen.
+
+Beispiel-Ausgabe:
+250000
+
+Anforderungen:
+•	Die Methode volumenBerechnen(int, int, int) muss public und static sein.
+•	Die Methode volumenBerechnen(int, int, int) muss ein long zurückgeben.
+•	Die Methode volumenBerechnen(int, int, int) soll nichts anzeigen.
+•	Die Methode volumenBerechnen(int, int, int) muss die richtige Wassermenge in Liter zurückgeben, die zum Befüllen des Pools benötigt wird.

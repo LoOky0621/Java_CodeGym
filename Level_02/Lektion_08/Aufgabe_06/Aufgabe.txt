@@ -1,0 +1,9 @@
+Implementiere die Methode ausdrucken3. Die Methode muss die übergebene Zeichenkette (das Wort) dreimal anzeigen, und zwar in derselben Zeile.
+Wörter müssen durch ein Leerzeichen getrennt werden und dürfen nicht zu einem einzigen zusammengefügt werden.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	Die Methode ausdrucken3 muss den Text auf dem Bildschirm anzeigen.
+•	In der Methode main darf die Methode ausdrucken3 nur zweimal aufgerufen werden.
+•	Die Methode ausdrucken3 muss die übergebene Zeichenkette (das Wort) dreimal anzeigen, und zwar in derselben Zeile.

@@ -1,0 +1,17 @@
+Lass den Text des neuen Vertrages ausgeben:
+Mein Name ist Amigo.
+ 
+Ich stimme einem Gehalt von 5000 €/Monat im ersten Jahr zu.
+Ich stimme einem Gehalt von 5500 €/Monat im zweiten Jahr zu.
+Ich stimme einem Gehalt von 7000 €/Monat im dritten Jahr zu.
+Ich stimme einem Gehalt von 8000 €/Monat im vierten Jahr zu.
+Ich stimme einem Gehalt von 10000 €/Monat im fünften Jahr zu.
+ 
+Du kannst mich an meinem glänzenden rückwärtigen Metallantrieb lecken!
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der Text muss mit „Mein Name ist Amigo“ beginnen.
+•	Der Text muss mit „Metallantrieb lecken!“ enden.
+•	Der Text muss aus neun Zeilen bestehen (Leerzeilen zählen mit).
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

@@ -1,0 +1,10 @@
+
+Implementiere die Methode ausdrucken3. Die Methode muss die übergebene Zeichenkette dreimal anzeigen.
+Der Satz soll jedes Mal in einer eigenen Zeile stehen.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	Die Methode ausdrucken3 muss den Text auf dem Bildschirm anzeigen.
+•	In der Methode main darf die Methode ausdrucken3 nur einmal aufgerufen werden.
+•	Die Methode ausdrucken3 muss die Zeichenkette dreimal anzeigen. Der Satz soll jedes Mal in einer eigenen Zeile stehen.

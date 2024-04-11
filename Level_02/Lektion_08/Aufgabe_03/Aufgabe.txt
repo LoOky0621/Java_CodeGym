@@ -1,0 +1,11 @@
+Schreibe eine Funktion, welche die kleinste aus drei Zahlen berechnet.
+
+Hinweis:
+Du musst den Rumpf der bestehenden Funktion min schreiben.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Die Methode min darf keinen Text auf dem Bildschirm anzeigen.
+•	Die Methode main muss die Methode min viermal aufrufen.
+•	Die Methode main muss das Ergebnis der Methode min anzeigen. Der Satz soll jedes Mal in einer eigenen Zeile stehen.
+•	Die Methode min muss die kleinste Zahl aus den Zahlen a, b und c zurückgeben.

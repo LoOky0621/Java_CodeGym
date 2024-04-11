@@ -1,0 +1,13 @@
+Deklariere in der Klasse Person die folgenden Variablen: String name, int alter, int gewicht, int geld.
+Erstelle in der Methode main ein Objekt Person und speichere eine Referenz zu diesem in der Variable person.
+
+Hinweis: Verwende das folgende Konstrukt, um ein Objekt Person zu erstellen und der Variable person eine Referenz auf dieses Objekt zuzuweisen:
+VariablenTyp variablenName = new TypDesErstelltenObjekts();
+
+Anforderungen:
+•	Deklariere in der Klasse Person eine String-Variable namens name.
+•	Deklariere in der Klasse Person eine int-Variable namens alter.
+•	Deklariere in der Klasse Person eine int-Variable namens gewicht.
+•	Deklariere in der Klasse Person eine int-Variable namens geld.
+•	Erstelle in der Methode main ein Objekt Person und weise der Variablen person sofort eine Referenz darauf zu.
+•	Fünf Variablen müssen deklariert werden.

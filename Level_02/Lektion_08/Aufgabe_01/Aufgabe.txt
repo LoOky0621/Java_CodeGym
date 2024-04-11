@@ -1,0 +1,16 @@
+„Amigo, wusstest du, dass die Mondschwerkraft nur etwa 17 % der Schwerkraft auf der Erde beträgt?“
+„Nein.“
+„Ich auch nicht. Aber diese Information braucht man ständig. Damit du das nicht immer manuell ausrechnen musst, implementiere eine Methode gewichtUmwandeln(int), die das Körpergewicht einer Person auf der Erde (in Newton) entgegennimmt und das Gewicht dieser Person auf dem Mond (in Newton) zurückgibt.
+Die Methode muss ein double zurückgeben.“
+
+Betrachte dieses Beispiel:
+Die Methode gewichtUmwandeln wird mit dem Parameter 888 aufgerufen.
+
+Beispiel-Ausgabe:
+150.96
+
+Anforderungen:
+•	Die Methode gewichtUmwandeln(int) muss public und static sein.
+•	Die Methode gewichtUmwandeln muss ein double zurückgeben.
+•	Die Methode gewichtUmwandeln soll nichts anzeigen.
+•	Die Methode gewichtUmwandeln muss das Erdgewicht in Newton korrekt in das Mondgewicht umrechnen und dann diesen Wert zurückgeben.

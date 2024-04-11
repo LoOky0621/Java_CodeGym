@@ -1,0 +1,10 @@
+Erstelle ein Objekt Katze zweimal.
+Speichere jede Instanz in einer eigenen Variablen.
+Die Variablennamen müssen sich unterscheiden.
+
+Anforderungen:
+•	Das Programm darf keinen Text auf dem Bildschirm anzeigen.
+•	Die Methode main darf nur zwei Katze-Variablen enthalten.
+•	Du musst den Variablen sofort Werte zuweisen.
+•	In der Klasse Katze dürfen keine Variablen vorhanden sein.
+•	In der Klasse Katze dürfen keine Methoden vorhanden sein.

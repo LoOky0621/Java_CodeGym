@@ -1,0 +1,7 @@
+Entferne die Kommentarzeichen bei einem Teil des Codes, damit „Frohes neues Jahr“ auf dem Bildschirm ausgegeben wird.
+
+Anforderungen:
+•	Das Programm muss Text ausgeben.
+•	Du musst bei einigen Zeilen die Kommentarzeichen entfernen. Davon abgesehen darfst du nichts ändern.
+•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

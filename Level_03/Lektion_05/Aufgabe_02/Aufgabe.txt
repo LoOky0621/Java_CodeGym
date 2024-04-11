@@ -1,0 +1,12 @@
+Implementiere die Methode public static void aufKonsoleSchreiben(String s), die „ausgeben: “ zum Anfang der Zeichenkette hinzufügt und die veränderte Zeichenkette anzeigt.
+
+Beispielausgabe für „Hallo Welt! “:
+ausgeben: Hallo Welt!
+
+Anforderungen:
+•	Füge eine Methode aufKonsoleSchreiben hinzu, die einen String-Parameter entgegennimmt.
+•	Die Methode aufKonsoleSchreiben muss den Typ void zurückgeben.
+•	Die Methode aufKonsoleSchreiben muss static sein.
+•	Die Methode aufKonsoleSchreiben muss public sein.
+•	Die Methode aufKonsoleSchreiben muss „ausgeben: “ zum Anfang der Zeichenkette hinzufügen und das Ergebnis anzeigen.
+•	Das Programm muss „ausgeben: Hallo Welt!“ anzeigen.

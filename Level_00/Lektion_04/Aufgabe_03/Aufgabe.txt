@@ -1,0 +1,11 @@
+
+Schreib ein Programm, das in der Methode main folgende Variablen deklariert:
+String name, int alter, and String ort.
+
+Hinweis: Mit dem „Deklarieren einer Variablen“ ist das gleiche gemeint wie mit dem „Erstellen einer Variablen“.
+
+Anforderungen:
+•	Deklariere eine String-Variable namens „name“.
+•	Deklariere eine int-Variable namens „alter“.
+•	Deklariere eine String-Variable namens „ort“.
+•	Es sollten drei Variablen deklariert werden.

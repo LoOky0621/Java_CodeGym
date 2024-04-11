@@ -1,0 +1,11 @@
+Erstelle 3 Hund-Objekte.
+Speichere jede Instanz in einer eigenen Variablen.
+Gib ihnen die Namen „Max“, „Bella“ und „Jack“.
+
+Anforderungen:
+•	Das Programm darf keinen Text auf dem Bildschirm anzeigen.
+•	Die Methode main darf nur drei Hund-Variablen enthalten.
+•	Du musst den Variablen sofort Werte zuweisen.
+•	Jedem Hund-Objekt muss ein Name zugewiesen werden.
+•	Die Klasse Hund muss eine einzige Variable namens name haben.
+•	Die Klasse Hund darf keine Methoden haben.

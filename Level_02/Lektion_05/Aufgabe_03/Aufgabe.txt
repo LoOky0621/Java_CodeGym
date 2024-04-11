@@ -1,0 +1,9 @@
+Erstelle Katze-, Hund-, Fisch- und Frau-Objekte.
+Weise jedem Tier einen Halter zu.
+
+Anforderungen:
+•	Das Programm darf keinen Text auf dem Bildschirm anzeigen.
+•	Erstelle in der Methode main Katze-, Hund-, Fisch- und Frau-Objekte und speichere Referenzen auf diese in Variablen.
+•	Lege in der Methode main das Frau-Objekt als Halter für jedes Tier fest.
+•	Die Klassen Katze, Hund und Fisch dürfen nur eine Frau-Variable mit dem Namen halter haben.
+•	In der Klasse Frau dürfen keine Variablen vorhanden sein.

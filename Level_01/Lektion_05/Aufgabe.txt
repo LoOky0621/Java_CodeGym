@@ -1,0 +1,12 @@
+- „Amigo, möchtest du Programmierer werden?“
+- „Na klar!“
+- „ Dann schreib schnell ein Programm, mit dem der Satz ‚Hallo Welt!‘ ausgegeben wird.“
+- „ Aber … das ist doch langweilig!“
+- „ Stimmt. Amigo, das siehst du genau wie ich, und das ist gut so. Machen wir stattdessen Folgendes: lass uns einen Satz ausgeben, den wir als Roboter ausrufen sollten, wenn wir unsicher sind. Und zwar: „Du kannst mich an meinem glänzenden rückwärtigen Metallantrieb lecken!“
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der Text muss mit „Du“ beginnen.
+•	Am Ende des Textes muss ein Ausrufungszeichen ausgegeben werden.
+•	Der Text einschließlich Leerzeichen und Satzzeichen muss genau 70 Zeichen lang sein.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

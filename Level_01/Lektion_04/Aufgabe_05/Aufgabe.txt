@@ -1,0 +1,7 @@
+Kommentiere etwas Code aus, so dass „Summe = 12“ auf dem Bildschirm ausgegeben wird.
+
+Anforderungen:
+•	Das Programm muss Text ausgeben.
+•	Du musst die entsprechenden Zeilen auskommentieren und alle anderen Zeilen unverändert lassen.
+•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

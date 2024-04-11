@@ -1,0 +1,13 @@
+Schreibe den Code für die Methode eurInUsdUmwandeln, die Euro in Dollar umwandelt und dabei einen bestimmten Wechselkurs verwendet.
+Verwende eine return-Anweisung, um das Ergebnis der Methode eurInUsdUmwandeln zurückzugeben. Beispiel: return 123*435;
+Rufe die Methode eurInUsdUmwandeln zweimal in der Methode main mit beliebigen Parametern auf.
+Zeige die Ergebnisse jedes Mal in einer neuen Zeile an.
+
+Hinweis:
+Das Ergebnis wird nach der folgenden Formel berechnet: US-Dollar = Euro * Wechselkurs
+
+Anforderungen:
+•	Die Methode eurInUsdUmwandeln muss den Euro-Betrag mit dem Wechselkurs multiplizieren und das Ergebnis zurückgeben.
+•	Die main-Methode muss die Methode eurInUsdUmwandeln zweimal mit beliebigen Parametern aufrufen.
+•	Die main-Methode muss das Ergebnis der Aufrufe jedes Mal in einer neuen Zeile anzeigen.
+•	Die Methode eurInUsdUmwandeln soll nichts anzeigen.

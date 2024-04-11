@@ -1,0 +1,8 @@
+Methode print implementieren. Die Methode muss die übergebene Zeichenkette viermal anzeigen. Der Satz soll jedes Mal in einer eigenen Zeile stehen.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	Die Methode print muss den Text auf dem Bildschirm anzeigen.
+•	In der main-Methode muss die print-Methode der Solution-Klasse genau dreimal aufgerufen werden.
+•	Die Methode print soll die Zeichenkette 4 mal anzeigen. Der Satz soll jedes Mal in einer eigenen Zeile stehen.

@@ -1,0 +1,16 @@
+Deklariere in der Methode main zwei int-Variablen a und b.
+Weise ihnen beliebige Werte zu.
+Zeige ihre Summe und ihr Produkt auf dem Bildschirm an.
+Zeige jeden Wert auf einer neuen Zeile an.
+
+Beispielausgabe für a = 5, b = 7:
+12
+35
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss zwei int-Variablen a und b enthalten.
+•	Du musst den Variablen sofort Werte zuweisen.
+•	Die Methode main muss die Summe der Variablen a und b anzeigen.
+•	Die Methode main muss das Produkt der Variablen a und b anzeigen.
+•	Jeder Wert muss in einer neuen Zeile angezeigt werden.

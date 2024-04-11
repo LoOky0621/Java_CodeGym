@@ -1,0 +1,8 @@
+Erstelle 5 Zerg-Einheiten, 3 Protoss-Einheiten und 4 Terraner-Einheiten.
+Gib ihnen allen eindeutige Namen.
+
+Anforderungen:
+•	Verändere nicht die Zerg-, Protoss- und Terraner-Klassen.
+•	Erstelle 5 Zerg-Objekte und benenne jedes von ihnen.
+•	Erstelle 3 Protoss-Objekte und benenne jedes von ihnen.
+•	Erstelle 4 Terraner-Objekte und benenne jedes von ihnen.

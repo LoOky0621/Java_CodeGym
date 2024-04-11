@@ -1,0 +1,15 @@
+Erstelle in der Methode main ein Objekt Mann und speichere eine Referenz darauf in der Variablen mann.
+Erstelle außerdem ein Objekt Frau und speichere eine Referenz darauf in der Variablen frau.
+
+Hinweis: Verwende das folgende Konstrukt, um ein Objekt Frau zu erstellen und der Variablen frau eine Referenz auf dieses Objekt zuzuweisen:
+VariablenTyp variablenName = new TypDesErstelltenObjekts();
+Speichere eine Referenz auf das zuvor erstellte Objekt Frau in mann.ehefrau.
+Speichere eine Referenz auf das zuvor erstellte Objekt Mann in frau.ehemann (Hinweis: frau.ehemann = mann).
+
+Anforderungen:
+•	Erstelle in der Methode main ein Objekt Mann und speichere eine Referenz darauf in der Variablen mann.
+•	Erstelle in der Methode main ein Objekt Frau und speichere eine Referenz darauf in der Variablen frau.
+•	Speichere in der Methode main eine Referenz auf das zuvor erstellte Objekt Frau in mann.ehefrau.
+•	Speichere in der Methode main eine Referenz auf das zuvor erstellte Objekt Mann in frau.ehemann.
+•	Die Klasse Mann muss 3 Variablen haben.
+•	Die Klasse Frau muss 3 Variablen hab

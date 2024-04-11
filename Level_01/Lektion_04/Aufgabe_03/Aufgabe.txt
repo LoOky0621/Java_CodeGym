@@ -1,0 +1,8 @@
+Ändere das Programm so ab, dass die Variable name den Wert „Amigo“ enthält.
+
+Anforderungen:
+•	Der Variable name muss sofort ein Wert zugewiesen werden, nachdem sie deklariert wurde.
+•	Zwei Variablen müssen deklariert werden.
+•	Der Wert der Variablen text darf nicht geändert werden.
+•	Du darfst den Bildschirmausgabe-Befehl nicht ändern.
+•	Das Programm muss „Hallo, Amigo!“ ausgeben.

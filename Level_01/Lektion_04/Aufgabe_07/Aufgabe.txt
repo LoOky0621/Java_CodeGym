@@ -1,0 +1,10 @@
+Ordne in der Methode main die Plus- und Minuszeichen richtig an, so dass die Variable result den Wert 20 enthält.
+Nur in der Zeile, in der die Variable result deklariert wird, dürfen die Zeichen eingetragen werden.
+Ändere die Reihenfolge der Variablen in dieser Zeile nicht.
+Vor jeder Variablen muss entweder ein Plus- oder ein Minus-Zeichen stehen.
+
+Anforderungen:
+•	Werte der Variablen: Ändere nichts an a, b, c oder d.
+•	In der Zeile, in der die Variable result deklariert wird, muss vor jeder der der Variablen (a, b, c und d) entweder ein Plus- oder ein Minuszeichen stehen.
+•	Das Programm muss die Zahl 20 auf dem Bildschirm ausgeben.
+•	Die Plus- und Minuszeichen müssen an der richtigen Stelle stehen.

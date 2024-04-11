@@ -1,0 +1,7 @@
+Deklariere die fehlenden Variablen und kommentiere diejenigen aus, die nirgendwo benutzt werden.
+
+Anforderungen:
+•	Das Programm muss Text ausgeben.
+•	Vier Variablen müssen deklariert werden.
+•	Du musst die nicht verwendeten Variablen auskommentieren.
+•	Die Ausgabe des Programms sollte sich nicht ändern.

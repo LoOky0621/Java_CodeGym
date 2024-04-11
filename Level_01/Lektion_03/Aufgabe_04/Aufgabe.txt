@@ -1,0 +1,8 @@
+Gegeben ist die Variable number.
+Schreib ein Programm, das das Quadrat dieser Variable ausgibt: (number * number).
+
+Anforderungen:
+•	Du darfst die Variable number nicht verändern. Du darfst nur ihren Wert ändern.
+•	Das Programm soll Text ausgeben.
+•	Der ausgegebene Text muss eine Zahl sein.
+•	Der ausgegebene Text muss die Quadratzahl der Variablen number sein.

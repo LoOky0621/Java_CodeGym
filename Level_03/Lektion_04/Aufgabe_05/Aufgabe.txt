@@ -1,0 +1,17 @@
+Zeige die Summe der Zahlen von 1 bis 5 Zeile für Zeile an (5 Zeilen müssen vorhanden sein):
+1
+1+2=3
+1+2+3=6
+...
+
+Beispiel-Ausgabe:
+1
+3
+6
+...
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der angezeigte Text muss aus 5 Zeilen bestehen.
+•	Die Zahl in jeder neuen Zeile muss größer sein als die vorherige.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

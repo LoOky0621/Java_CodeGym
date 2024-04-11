@@ -1,0 +1,7 @@
+Ändere das Programm so ab, dass die Variable alter den Wert 15 enthält.
+
+Anforderungen:
+•	Vier Variablen müssen deklariert werden.
+•	Die Variable alter muss ein int sein
+•	Allen Variablen muss sofort nach der Deklaration ein Wert zugewiesen werden.
+•	Der Variable alter muss der Wert 15 zugewiesen werden.

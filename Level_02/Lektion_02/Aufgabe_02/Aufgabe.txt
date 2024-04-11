@@ -1,0 +1,15 @@
+Die Methode celsiusInFahrenheitUmwandeln(int celsius) akzeptiert einen Wert in Grad Celsius. Die Methode muss die Temperatur umrechnen und den Wert in Grad Fahrenheit zurückgeben.
+Die Celsius-Temperatur (TC) und die Fahrenheit-Temperatur (TF) sind durch die folgende Beziehung verbunden:
+TF = (9 / 5) * TC + 32.
+
+Betrachte dieses Beispiel:
+Ein Wert von 41 wird an die Methode celsiusInFahrenheitUmwandeln übergeben.
+
+Beispiel-Ausgabe:
+105.8
+
+Anforderungen:
+•	Die Methode celsiusInFahrenheitUmwandeln(int) muss public und static sein.
+•	Die Methode celsiusInFahrenheitUmwandeln muss ein double zurückgeben.
+•	Die Methode celsiusInFahrenheitUmwandeln soll nichts anzeigen.
+•	Die Methode celsiusInFahrenheitUmwandeln muss Grad Celsius korrekt in Grad Fahrenheit umwandeln und das Ergebnis zurückgeben.

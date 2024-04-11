@@ -1,0 +1,8 @@
+Erstelle 10 Katze-Variablen und 8 Katze-Objekte.
+
+Anforderungen:
+•	Das Programm darf keinen Text auf dem Bildschirm anzeigen.
+•	Die Methode main muss 10 Katze-Variablen enthalten.
+•	In der main-Methode müssen acht Variablen unmittelbar nach der Erstellung initialisiert werden.
+•	In der Klasse Katze dürfen keine Variablen vorhanden sein.
+•	In der Klasse Katze dürfen keine Methoden vorhanden sein.

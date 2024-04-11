@@ -1,0 +1,8 @@
+Schreib ein Programm, das das Quadrat von 5 auf dem Bildschirm ausgibt.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	In der Methode main muss die Methode sqr aufgerufen und die Zahl 5 als Parameter übergeben werden.
+•	In der Methode main muss das Ergebnis der Methode sqr ausgegeben werden.
+•	Ändere nichts an der Methode sqr.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

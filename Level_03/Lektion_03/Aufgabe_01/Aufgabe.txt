@@ -1,0 +1,9 @@
+Füge die Methode public static void stringAusdrucken(String s) hinzu und schreibe Code, der den übergebenen String anzeigt.
+
+Anforderungen:
+•	Füge eine Methode stringAusdrucken hinzu, die einen String als Parameter entgegennimmt.
+•	Die Methode stringAusdrucken muss den Typ void zurückgeben.
+•	Die Methode stringAusdrucken muss static sein.
+•	Die Methode stringAusdrucken muss public sein.
+•	Die Methode stringAusdrucken muss den übergebenen Text anzeigen.
+•	Das Programm muss „Hallo, Amigo!“ ausgeben.

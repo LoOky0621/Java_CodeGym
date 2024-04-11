@@ -1,0 +1,10 @@
+Implementiere public static void div(int a, int b).
+Die Methode muss die erste Zahl durch die zweite teilen und das Ergebnis der Division von a durch b anzeigen.
+Das angezeigte Ergebnis muss eine ganze Zahl sein.
+
+Anforderungen:
+•	Die Methode div muss a durch b teilen.
+•	Die Methode div muss das Ergebnis der Division anzeigen.
+•	In der Methode main muss die Methode div dreimal aufgerufen werden.
+•	In der Methode main darf keine Bildschirmausgabe-Methode aufgerufen werden.
+•	Das Programm muss drei Zahlen ausgeben: 2 1 0. Jede Zahl in einer separaten Zeile.

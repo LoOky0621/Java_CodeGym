@@ -1,0 +1,7 @@
+Kommentiere so viele Zeilen wie möglich aus, um die Zahl 19 anzuzeigen
+
+Anforderungen:
+•	Das Programm muss die Zahl 19 ausgeben.
+•	Mach keine Änderungen in den Zeilen, in denen Variablen deklariert werden.
+•	Mach keine Änderungen in der Zeile, die für die Bildschirmausgabe zuständig ist.
+•	Du musst die entsprechenden Zeilen auskommentieren und alle anderen Zeilen unverändert lassen.

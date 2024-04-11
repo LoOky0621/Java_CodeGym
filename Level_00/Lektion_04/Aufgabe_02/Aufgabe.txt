@@ -1,0 +1,8 @@
+Jetzt haben wir 3126. Mein Freund wurde vor acht Jahren geboren.
+Schreib ein Programm, das das Geburtsjahr meines Freundes ausgibt.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das ausgegebene Jahr muss vier Stellen haben.
+•	Das ausgegebene Jahr muss mit „31“ beginnen.
+•	Das ausgegebene Jahr muss die Bedingungen der Aufgabe erfüllen.

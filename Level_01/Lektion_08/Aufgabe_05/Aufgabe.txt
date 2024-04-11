@@ -1,0 +1,8 @@
+Lass die Variablen ausgeben, deren Werte die Namen von Früchten enthalten. Lass jede Variable in einer eigenen Zeile ausgeben.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Mach keine Änderungen in den Zeilen, in denen Variablen deklariert werden.
+•	Der ausgegebene Text muss aus zwei Zeilen bestehen.
+•	Das Programm soll die Variablen ausgeben, deren Werte die Namen von Früchten enthalten.
+•	Das Programm soll die Variablen nicht ausgeben, deren Werte keine Namen von Früchten enthalten.

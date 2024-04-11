@@ -1,0 +1,9 @@
+Deklariere int-Variablen namens a und b.
+Weise diesen Variablen in der gleichen Zeile, in der sie deklariert werden, sofort auch verschiedene Werte zu.
+Bei diesen Werten kann es sich um beliebige ganze Zahlen (integer-Werte) handeln.
+
+Anforderungen:
+•	Deklariere zwei int-Variablen.
+•	Die Variablen müssen a und b heißen.
+•	Du musst den Variablen sofort Werte zuweisen.
+•	Die Variablen a und b müssen verschiedene Werte haben.

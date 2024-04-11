@@ -1,0 +1,10 @@
+Korrigiere den Fehler im Programm. Das Programm muss die Zahl 100 ausgeben.
+
+Anforderungen:
+•	Das Programm muss Text ausgeben.
+•	Drei Variablen müssen deklariert werden.
+•	Du darfst die Typen der Variablen nicht ändern.
+•	Du darfst die Werte der Variablen nicht ändern.
+•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
+•	Ändere so wenig wie möglich an dem Bildschirmausgabe-Befehl.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

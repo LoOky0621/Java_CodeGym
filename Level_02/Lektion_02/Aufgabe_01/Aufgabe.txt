@@ -1,0 +1,9 @@
+Zeige den Umfang eines Kreises an, der mit folgender Formel berechnet wird: C = 2 * pi * radius.
+Das Ergebnis ist eine Bruchzahl (double).
+Verwende 3.14 als Wert von pi.
+
+Anforderungen:
+•	In der Methode kreisumfangDrucken musst du den Kreisumfang anzeigen, der nach dieser Formel berechnet wird: 2 * pi * radius.
+•	In der Methode main muss die Methode kreisumfangDrucken aufgerufen und die Zahl 5 als Parameter übergeben werden.
+•	In der Methode main darf keine Bildschirmausgabe-Methode aufgerufen werden.
+•	Das Programm muss den Umfang eines Kreises mit dem Radius 5 anzeigen.

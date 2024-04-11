@@ -1,0 +1,8 @@
+
+Schreib ein Programm, das die Methode sum mit den Parametern 2 und 2 aufruft.
+
+Anforderungen:
+•	Das Programm muss die Summe der Zahlen 2 und 2 ausgeben.
+•	In der Methode main muss die Methode sum mit den Parametern 2 und 2 aufgerufen werden.
+•	In der Methode main darf keine Bildschirmausgabe-Methode aufgerufen werden.
+•	Ändere nichts an der Methode su

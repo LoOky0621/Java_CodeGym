@@ -1,0 +1,10 @@
+Füge eine Methode public static int inSekundenUmwandeln(int stunde) hinzu, die Stunden in Sekunden umwandelt.
+Rufe sie in der Methode main zweimal mit beliebigen Parametern auf.
+Zeige die Ergebnisse jedes Mal in einer neuen Zeile an.
+
+Anforderungen:
+•	Füge die Methode inSekundenUmwandeln hinzu. Sie muss public static sein und int-Werte entgegennehmen und zurückgeben.
+•	Die Methode inSekundenUmwandeln muss die übergebene Anzahl von Stunden in Sekunden umwandeln.
+•	Die main-Methode muss die Methode inSekundenUmwandeln zweimal aufrufen.
+•	Die main-Methode muss das Ergebnis der Aufrufe jedes Mal in einer neuen Zeile anzeigen.
+•	Die Methode inSekundenUmwandeln soll nichts anzeigen.

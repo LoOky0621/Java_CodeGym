@@ -1,0 +1,8 @@
+Entkommentiere eine Zeile, sodass das Programm die Zahlen 12 und 2 ausgibt (zuerst 12, dann 2).
+
+Anforderungen:
+•	Das Programm muss die Zahlen 12 und 2 ausgeben.
+•	Mach keine Änderungen in den Zeilen, in denen Variablen deklariert werden.
+•	Das Programm darf nur zwei int-Variablen enthalten.
+•	Mach keine Änderungen in den Zeilen, die für die Bildschirmausgabe zuständig sind.
+•	Du musst die Kommentarzeichen bei einer Zeile entfernen und alle anderen Zeilen unverändert lassen.

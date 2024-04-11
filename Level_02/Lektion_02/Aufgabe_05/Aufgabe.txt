@@ -1,0 +1,12 @@
+In der Methode public static void gehaltHacken(int a) erhöhe das Gehalt um 1000 und zeige folgendes an: „Dein Gehalt ist: <a+1000> Euro pro Monat.“
+<a+1000> ist dabei das Gehalt erhöht um 1000.
+
+Beispielausgabe für a = 7000:
+Dein Gehalt ist: 8000 Euro pro Monat.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	Die Methode gehaltHacken darf kein Ergebnis zurückgeben.
+•	In der Methode main darf die Methode gehaltHacken nur einmal aufgerufen werden.
+•	Die Methode gehaltHacken muss den Eingabeparameter um 1000 erhöhen und den Text entsprechend der angegebenen Vorlage auf dem Bildschirm anzeigen.

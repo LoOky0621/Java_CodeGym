@@ -1,0 +1,8 @@
+Schreibe Code in der Methode main, durch den das Programm dein Lieblingsgedicht ausgibt.
+Das Gedicht muss mindestens vier Zeilen haben. Du darfst die Zeile „Mein Lieblingsgedicht:“ nicht entfernen.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Vor dem Gedicht muss die Zeile „Mein Lieblingsgedicht:“ ausgegeben werden.
+•	Der ausgegebene Text muss aus mindestens fünf Zeilen bestehen (Leerzeilen zählen mit).
+•	Der ausgegebene Text muss mindestens 50 Zeichen lang sein.

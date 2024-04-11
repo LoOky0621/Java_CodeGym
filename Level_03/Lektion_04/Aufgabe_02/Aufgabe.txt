@@ -1,0 +1,8 @@
+Ordne die Klammern richtig (anders) an, so dass die Zahl 382 auf dem Bildschirm angezeigt wird.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Hauptmethode main darf nur einen einzigen Aufruf von System.out.println enthalten.
+•	Die Reihenfolge der Ziffern und arithmetischen Operationen kann nicht geändert werden.
+•	Der endgültige Ausdruck muss 2 öffnende und 2 schließende Klammern haben.
+•	Die Methode main muss die Zahl 382 anzeigen.

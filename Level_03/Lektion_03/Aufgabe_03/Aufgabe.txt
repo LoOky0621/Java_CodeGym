@@ -1,0 +1,11 @@
+Schreibe den Code für die Methode zehnProzentZufuegen, die die übergebene ganze Zahl um 10 % erhöht.
+Verwende die return-Anweisung, um das Ergebnis der Methode zehnProzentZufuegen zurückzugeben.
+
+Betrachte dieses Beispiel:
+return 123 * 435;
+
+Anforderungen:
+•	Die Methode zehnProzentZufuegen muss die übergebene Zahl um 10 % erhöhen.
+•	Die Methode main muss die Methode zehnProzentZufuegen aufrufen.
+•	Die Methode main muss die Ergebnisse der Aufrufe anzeigen.
+•	Die Methode zehnProzentZufuegen soll nichts anzeigen.

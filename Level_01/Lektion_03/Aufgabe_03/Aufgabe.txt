@@ -1,0 +1,10 @@
+Deklariere die int-Variablen a und b und eine String-Variable s.
+Weise diesen Variablen in der gleichen Zeile, in der sie deklariert werden, sofort auch irgendwelche verschiedenen Werte zu.
+
+Anforderungen:
+•	Deklariere zwei int-Variablen.
+•	Deklariere eine String-Variable.
+•	Die int-Variablen müssen a und b heißen.
+•	Die String-Variable muss s heißen.
+•	Du musst den Variablen sofort Werte zuweisen.
+•	Die Variablen a und b müssen verschiedene Werte haben.

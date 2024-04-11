@@ -1,0 +1,8 @@
+Zeige dein Geburtsdatum im folgenden Format an:
+MAY 1 2012
+
+Anforderungen:
+•	Der angezeigte Text muss Monat, Tag und Jahr, getrennt durch Leerzeichen anzeigen.
+•	Der Name des Monats muss in englischer Sprache in Großbuchstaben angezeigt werden.
+•	Das Jahr muss vierstellig sein und mindestens 1900 sein.
+•	Das Geburtsdatum muss vor dem aktuellen Datum liegen.
