@@ -7,8 +7,11 @@ Variablen deklarieren
 public class Solution {
     public static void main(String[] args) {
         //schreib hier deinen Code
-        String name;
-        int alter;
-        String ort;
+        String name = "Peter";
+        int alter = 13;
+        String ort = "Mannheim";
+        System.out.println(name);
+        System.out.println(alter);
+        System.out.println(ort);
     }
 }
