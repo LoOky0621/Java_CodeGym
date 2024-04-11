@@ -1,0 +1,8 @@
+Sie dir die Person-Klasse genau an.
+Korrigiere die Klasse so, dass nur eine Initialisierungsmethode alle Instanzvariablen der Klasse Person initialisiert.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Person-Klasse muss 5 Variablen besitzen.
+•	Die Klasse muss eine initialisieren-Methode besitzen.
+•	Die initialisieren-Methode muss fünf Parameter besitzen.

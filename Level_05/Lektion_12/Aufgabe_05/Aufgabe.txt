@@ -1,0 +1,21 @@
+Gib über die Tastatur Zahlen ein und berechnen deren Summe, bis der Benutzer das Wort „summe“ eingibt.
+Zeige die resultierende Summe auf dem Bildschirm an.
+
+Hinweis: Um Daten von der Tastatur einzulesen, bis die Zeichenkette ‚exit‘ eingegeben wird, gehen wir wie folgt vor:
+
+BufferedReader buffer = new BufferedReader(new InputStreamReader(System.in));
+while (true)
+{
+	String s = buffer.readLine();
+	if (s.equals("beenden"))
+		break;
+}
+Anforderungen:
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Das Programm muss das Lesen von Daten über die Tastatur beenden, nachdem der Benutzer das Wort "summe" in Kleinbuchstaben eingegeben und die Eingabetaste gedrückt hat.
+•	Das Programm muss korrekt funktionieren, wenn der Benutzer eine Zahl und das Wort "summe" eingibt.
+•	Das Programm muss korrekt funktionieren, wenn der Benutzer zwei Zahlen und das Wort "summe" eingibt.
+•	Das Programm muss korrekt funktionieren, wenn der Benutzer mehr als zwei Zahlen und das Wort "summe" eingibt.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+
+INPUT: 123, 12, 1, 17, 42, summe

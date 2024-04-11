@@ -1,0 +1,26 @@
+Erstelle eine Katze-Klasse mit fünf Initialisatoren:
+- Name,
+- Name, Gewicht, Alter
+- Name, Alter (Standardgewicht)
+- Gewicht, Farbe (Name, Adresse und Alter unbekannt, z.B. eine Katze ohne Zuhause)
+- Gewicht, Farbe, Adresse (Haustier einer anderen Person)
+
+Die Aufgabe des Initialisators ist es, das Objekt gültig zu machen.
+Wenn das Gewicht beispielsweise unbekannt ist, musst du ein durchschnittliches Gewicht angeben.
+Eine Katze kann nicht nichts wiegen.
+Das Gleiche gilt für Alter und Farbe.
+Aber es kann sein, dass eine Katze keinen Namen hat oder dieser unbekannt ist (z.B. kann der Name null sein).
+Das Gleiche gilt für die Adresse (sie könnte z.B. null sein).
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Katze muss eine String-Variable name besitzen.
+•	Die Klasse Katze muss eine int-Variable alter besitzen.
+•	Die Klasse Katze muss eine int-Variable gewicht besitzen.
+•	Die Klasse Katze muss eine String-Variable adresse besitzen.
+•	Die Klasse Katze muss eine String-Variable farbe besitzen.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen als Parameter entgegennimmt und alle Variablen außer der Variable adresse initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen, ein Gewicht und ein Alter als Parameter entgegennimmt und alle Variablen außer der Variable adresse initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen und ein Alter als Parameter entgegennimmt und alle Variablen außer der Variable adresse initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die ein Gewicht und eine Farbe als Parameter entgegennimmt und alle Variablen außer der Variablen name und adresse initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die ein Gewicht, eine Farbe und eine Adresse als Parameter entgegennimmt und alle Variablen außer der Variable name initialisiert.

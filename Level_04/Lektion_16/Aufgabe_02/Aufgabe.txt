@@ -1,0 +1,12 @@
+Gib über die Tastatur drei Zahlen ein und zeige dann die mittlere Zahl an.
+Mit anderen Worten: nicht die größte und nicht die kleinste Zahl.
+Wenn alle Zahlen gleich sind, zeige eine von ihnen an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Das Programm muss die mittlere von drei Zahlen anzeigen.
+•	Wenn alle Zahlen gleich sind, zeige eine von ihnen an.
+•	Wenn zwei der drei Zahlen gleich sind, zeige eine der beiden an.
+
+INPUT: 5, 7, 10

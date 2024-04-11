@@ -1,0 +1,14 @@
+Finde heraus, was das Programm macht.
+Korrigiere den Konstruktor mit zwei Parametern, so dass er einen anderen Konstruktor mit einem Radius von 10 aufruft.
+Überlege dir, welchen Konstruktor du aufrufen musst.
+
+Hinweis:
+Studiere sorgfältig die Implementierung des Standardkonstruktors.
+
+Anforderungen:
+•	Die Klasse muss 3 Konstruktoren besitzen.
+•	Der Konstruktor mit zwei Parametern muss die Variablen x und y mit den übergebenen Werten initialisieren.
+•	Der Konstruktor mit zwei Parametern muss die Variable Radius mit einem Wert von 10 initialisieren.
+•	Der Konstruktor mit zwei Parametern muss einen anderen Konstruktor aufrufen und die richtigen Parameter übergeben.
+•	Verändere nicht die main-Methode.
+•	Verändere nicht den Standardkonstruktor.

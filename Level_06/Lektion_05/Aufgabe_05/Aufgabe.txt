@@ -1,0 +1,17 @@
+Gib über die Tastatur eine positive Zahl ein. Bestimme die Anzahl der geraden Ziffern und der ungeraden Ziffern in der eingegebenen Zahl.
+Wenn eine Zahl ohne Rest durch 2 teilbar ist (d.h. der Rest ist Null), dann ist sie gerade.
+Dann erhöhen wir den Zähler für gerade Ziffern (static-Variable gerade) um 1.
+Andernfalls ist die Zahl ungerade und wir erhöhen den Zähler für ungerade Ziffern (static-Variable ungerade).
+Zeige die folgende Meldung an: „Gerade: a Ungerade: b“, mit a der Anzahl der geraden Ziffern und b der Anzahl der ungeraden Ziffern.
+
+Beispiel für 4445:
+Gerade: 3 Ungerade: 1
+
+Anforderungen:
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Die main-Methode muss berechnen, wie viele gerade Ziffern in der eingegebenen Zahl enthalten sind, und diese Zahl dann in die Variable gerade schreiben.
+•	Die main-Methode muss berechnen, wie viele ungerade Ziffern in der eingegebenen Zahl enthalten sind, und diese Zahl dann in die Variable ungerade schreiben.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.
+
+INPUT: 89756

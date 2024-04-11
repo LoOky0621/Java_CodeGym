@@ -1,0 +1,18 @@
+Erstelle die Klassen Hund, Katze und Maus.
+Füge jeder Klasse drei Felder deiner Wahl hinzu.
+Erstelle Objekte für die Figuren im Cartoon „Tom und Jerry“.
+Wie du vielleicht noch weißt, gibt es da so einige.
+
+Zum Beispiel:
+Maus jerryMaus = new Maus("Jerry", 13, 5),
+wobei 5 die Größe in Zentimeter ist,
+und 5 die Länge seines Schwanzes in Zentimeter.
+
+Anforderungen:
+•	Erstelle eine Hund-Klasse.
+•	Erstelle eine Katze-Klasse.
+•	Die Hund-Kasse muss drei Variablen besitzen.
+•	Die Katze-Klasse muss drei Variablen besitzen.
+•	Du musst mindestens ein Maus-Objekt anlegen.
+•	Du musst mindestens ein Hund-Objekt anlegen.
+•	Du musst mindestens ein Katze-Objekt anlegen.

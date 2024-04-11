@@ -1,0 +1,9 @@
+Erstelle je 50.000 Katze- und Hund-Objekte in einer Schleife.
+(Die Java-Maschine sollte anfangen, unbenutzte Objekte zu zerstören, und die finalize-Methode wird mindestens einmal aufgerufen).
+
+Anforderungen:
+•	Die Katze-Klasse muss die Methode void finalize besitzen.
+•	Die Hund-Klasse muss die Methode void finalize besitzen.
+•	Die finalize-Methode der Katze-Klasse muss "Eine Katze wurde zerstört" anzeigen.
+•	Die finalize-Methode der Hund-Klasse muss "Ein Hund wurde zerstört" anzeigen.
+•	Die Hauptmethode muss 50.000 Katze-Objekte und 50.000 Hund-Objekte erzeugen.

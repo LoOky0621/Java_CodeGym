@@ -1,0 +1,7 @@
+Erstelle in der Katze-Klasse die Methode protected void finalize() throws Throwable.
+
+Anforderungen:
+•	Die Katze-Klasse muss eine Methode namens finalize besitzen.
+•	Die finalize-Methode darf nichts zurückgeben (void).
+•	Die finalize-Methode muss protected sein.
+•	Die finalize-Methode kann eine Throwable-Ausnahme auslösen. Gib das in der Methodendeklaration an.

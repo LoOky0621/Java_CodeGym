@@ -1,0 +1,9 @@
+Erstelle eine Katze-Klasse. Eine Katze muss die Variablen String name, int alter, int gewicht und int staerke besitzen.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Katze muss eine String-Variable name besitzen.
+•	Die Klasse Katze muss eine int-Variable alter besitzen.
+•	Die Klasse Katze muss eine int-Variable gewicht besitzen.
+•	Die Klasse Katze muss eine int-Variable staerke besitzen.
+•	Die Klasse muss 4 Variablen enthalten

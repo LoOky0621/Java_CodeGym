@@ -1,0 +1,12 @@
+Erstelle die Hund-Klasse mit drei Konstruktoren:
+- Name
+- Name, Größe
+- Name, Größe, Farbe
+
+Anforderungen:
+•	Die Klasse Hund muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Hund muss eine int-Variable mit der Bezeichnung groesse besitzen.
+•	Die Klasse Hund muss eine String-Variable mit der Bezeichnung farbe besitzen.
+•	Die Klasse muss einen Konstruktor besitzen, der einen Namen als Parameter entgegennimmt und die entsprechende Instanzvariable initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der Name und Größe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der einen Namen, eine Größe und eine Farbe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.

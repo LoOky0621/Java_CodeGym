@@ -1,0 +1,12 @@
+Erstelle die Person-Klasse. Eine Person muss die Variablen String name und int alter besitzen.
+Füge die Methode initialisieren(String name, int alter) hinzu, mit der du die Variablen name und alter initialisierst.
+Erstelle in der Methode main ein Objekt Person und speichere eine Referenz zu diesem in der Variable person.
+Rufe die initialisieren-Methode mit beliebigen Werten auf.
+
+Anforderungen:
+•	Die Klasse Solution muss die Klasse Person enthalten.
+•	Die Klasse Person muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Person muss eine int-Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse Person muss eine Methode initialisieren besitzen, die einen Namen und ein Alter als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Du musst ein Person-Objekt erstellen und eine Referenz darauf in die Variable person einfügen.
+•	Du musst die initialisieren-Methode auf dem erstellten Objekt aufrufen und Parameter an sie übergeben.

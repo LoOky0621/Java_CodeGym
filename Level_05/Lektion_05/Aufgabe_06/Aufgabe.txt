@@ -1,0 +1,9 @@
+Erstelle die Person-Klasse. Eine Person benötigt die Variablen String name, int alter, String adresse und char geschlecht.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Person muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Person muss eine int-Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse Person muss eine String-Variable mit der Bezeichnung adresse besitzen.
+•	Die Klasse Person muss eine char-Variable mit der Bezeichnung geschlecht besitzen.
+•	Die Klasse muss 4 Variablen enthalten

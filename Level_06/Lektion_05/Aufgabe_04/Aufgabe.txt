@@ -1,0 +1,8 @@
+Erhöhe im Konstruktor der Klasse Katze, d.h. in public Katze() den Katzenzähler (die static-Variable katzenAnzahlder Katze-Klasse) um 1. Verringere ihn um 1 in der finalize-Methode.
+
+Anforderungen:
+•	Füge einen Konstruktor ohne Parameter zur Katze-Klasse hinzu, d.h. public Katze().
+•	Der Konstruktor muss den Wert der Variablen katzenAnzahl um 1 erhöhen.
+•	Füge die finalize-Methode zur Katze-Klasse hinzu.
+•	Die finalize-Methode darf nichts zurückgeben (der Rückgabetyp ist void).
+•	Die finalize-Methode muss die Variable katzenAnzahl um 1 verringern.

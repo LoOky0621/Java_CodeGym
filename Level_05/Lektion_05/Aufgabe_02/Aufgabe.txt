@@ -1,0 +1,16 @@
+Implementiere die Methode boolean kaempfen(Katze andereKatze):
+implementiere einen Mechanismus, mit dem die Katzen je nach Gewicht, Alter und Stärke kämpfen.
+Du kannst selbst entscheiden, wie sich die Eigenschaften einer Katze im Kampf auswirken.
+Die Methode muss ermitteln, ob wir (this) den Kampf gewonnen haben, d.h. sie muss true zurückgeben, wenn wir gewonnen haben, und sie muss false zurückgeben, wenn wir nicht gewonnen haben.
+
+Die folgende Bedingung muss erfüllt sein:
+wenn katze1.kaempfen(katze2) true zurückgibt,
+dann muss katze2.kaempfen(katze1) false zurückgeben
+
+Anforderungen:
+•	Die Katze-Klasse muss einen Konstruktor ohne Parameter besitzen.
+•	Die Katze-Klasse muss public-Felder wie alter, gewicht und staerke besitzen.
+•	Die Katze-Klasse muss eine kaempfen-Methode bestitzen.
+•	Implementiere in der Methode kaempfen einen Kampfmechanismus für Katzen, der auf Gewicht, Alter und Stärke basiert.
+•	Die Methode muss jedes Mal den gleichen Wert zurückgeben, wenn wir gegen dieselbe Katze kämpfen.
+•	Wenn katze1 katze2 besiegt, dann muss katze2 gegen katze1 verlieren.

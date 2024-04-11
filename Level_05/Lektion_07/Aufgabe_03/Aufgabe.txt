@@ -1,0 +1,13 @@
+Erstelle eine Hund-Klasse mit drei Initialisatoren:
+- Name
+- Name, Größe
+- Name, Größe, Farbe
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Hund muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Hund muss eine int-Variable mit der Bezeichnung groesse besitzen.
+•	Die Klasse Hund muss eine String-Variable mit der Bezeichnung farbe besitzen.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen als Parameter entgegennimmt und die entsprechende Instanzvariable initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen und eine Größe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die einen Namen, eine Größe und eine Farbe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.

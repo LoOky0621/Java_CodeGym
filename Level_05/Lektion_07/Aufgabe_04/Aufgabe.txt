@@ -1,0 +1,11 @@
+Erstelle die Kreis-Klasse mit drei Initialisatoren:
+- mittelpunktX, mittelpunktY, radius
+- mittelpunktX, mittelpunktY, radius, breite
+- mittelpunktX, mittelpunktY, radius, breite, farbe
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Kreis-Klasse muss die Variablen mittelpunktX, mittelpunktY, radius, breite und farbe besitzen.
+•	Die Klasse muss eine Methode initialisieren besitzen, die mittelpunktX, mittelpunktY und radius als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die mittelpunktX, mittelpunktY, radius und breite als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss eine Methode initialisieren besitzen, die mittelpunktX, mittelpunktY, radius, breite und farbe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.

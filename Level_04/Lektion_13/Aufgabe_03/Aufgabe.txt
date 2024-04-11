@@ -1,0 +1,19 @@
+Verwende eine for-Schleife, um ein rechtwinkliges Dreieck aus Achten anzuzeigen, und zwar mit einer Basis von 10 und eine Höhe von 10.
+
+Beispiel der Bildschirmausgabe:
+8
+88
+888
+8888
+88888
+888888
+8888888
+88888888
+888888888
+8888888888
+
+Anforderungen:
+•	Das Programm darf keine Zahlen von der Tastatur einlesen.
+•	Das Programm muss Zahlen auf dem Bildschirm anzeigen.
+•	Das Programm muss ein rechtwinkliges Dreieck aus Achten, mit einer Basis von 10 und einer Höhe von 10, anzeigen.
+•	Das Programm muss eine for-Schleife verwenden.

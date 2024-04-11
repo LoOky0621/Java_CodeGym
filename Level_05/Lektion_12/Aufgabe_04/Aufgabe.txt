@@ -1,0 +1,8 @@
+Zeige das aktuelle Datum im folgenden Format an: „06 15 2018“.
+
+Anforderungen:
+•	Das Datum muss Monat, Tag und Jahr enthalten, jeweils getrennt durch ein Leerzeichen.
+•	Der Monat muss mit dem aktuellen Monat übereinstimmen.
+•	Der Tag muss mit dem aktuellen Tag übereinstimmen.
+•	Das Jahr muss mit dem aktuellen Jahr übereinstimmen.
+•	Das gesamte Datum muss in einer einzigen Zeile angezeigt werden.

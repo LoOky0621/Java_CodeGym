@@ -1,0 +1,7 @@
+Aufgabe: Das Programm liest zwei Zahlen über die Tastatur ein und zeigt deren Summe auf dem Bildschirm an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Es darf nur eine main-Methode in der Klasse geben.
+•	Das Programm muss eine Zeichenkette anzeigen, die mit "Summe =" beginnt.
+•	Das Programm muss eine Zeichenkette anzeigen, die mit der Summe der eingegebenen Zahlen endet.

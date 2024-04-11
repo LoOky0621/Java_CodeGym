@@ -1,0 +1,11 @@
+Erstelle die Hund-Klasse. Der Hund muss die Varaiblen String name und int alter besitzen.
+Erstelle Abfrage- und Änderungsmethoden für alle Variablen der Klasse Hund.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Hund muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Hund muss eine int-Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse muss eine Änderungsmethode für die Variable mit der Bezeichnung name besitzen.
+•	Die Klasse muss eine Abfragemethode für die Variable mit der Bezeichnung name besitzen.
+•	Die Klasse muss eine Änderungsmethode für die Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse muss eine Abfragemethode für die Variable mit der Bezeichnung alter besitzen.

@@ -1,0 +1,8 @@
+Verwende eine for-Schleife, um die geraden Zahlen zwischen 1 und einschließlich 100 anzuzeigen.
+Zeige jeden Wert auf einer neuen Zeile an.
+
+Anforderungen:
+•	Das Programm darf keinen Text von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss die geraden Zahlen zwischen 1 und einschließlich 100 anzeigen. Zeige jeden Wert auf einer neuen Zeile an.
+•	Das Programm muss eine for-Schleife verwenden.

@@ -1,0 +1,9 @@
+Erstelle in der Kreis-Klasse einen Konstruktor, der alle Instanzvariablen initialisiert.
+Der Konstruktor muss drei Parameter besitzen.
+
+Anforderungen:
+•	Die Kreis-Klasse muss die double-Variablen x, y und r enthalten.
+•	Die Klasse muss einen Konstruktor besitzen.
+•	Der Konstruktor muss public sein.
+•	Der Konstruktor muss drei double-Parameter besitzen.
+•	Der Konstruktor muss alle Instanzvariablen der Klasse initialisieren.

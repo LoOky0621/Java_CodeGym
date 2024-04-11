@@ -1,0 +1,10 @@
+Erstelle die Kreis-Klasse mit drei Konstruktoren:
+- mittelpunktX, mittelpunktY, radius
+- mittelpunktX, mittelpunktY, radius, breite
+- mittelpunktX, mittelpunktY, radius, breite, farbe
+
+Anforderungen:
+•	Die Kreis-Klasse muss die Variablen mittelpunktX, mittelpunktY, radius, breite und farbe als Typ int deklariert werden.
+•	Die Klasse muss einen Konstruktor besitzen, der mittelpunktX, mittelpunktY und radius als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der mittelpunktX, mittelpunktY, radius und breite als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der mittelpunktX, mittelpunktY, radius, breite und farbe als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.

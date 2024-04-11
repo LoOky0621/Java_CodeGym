@@ -1,0 +1,8 @@
+Erstelle in der main-Methode drei Katze-Objekte und befülle sie mit Daten.
+Verwende die Katze-Klasse aus der ersten Aufgabe. Du musst die Katze-Klasse nicht erst erstellen.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Du musst drei Katze-Objekte anlegen.
+•	Verändere nicht die Katze-Klasse.
+•	Das Programm darf keine Daten auf dem Bildschirm anzeigen.

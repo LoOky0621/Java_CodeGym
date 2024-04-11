@@ -1,0 +1,9 @@
+Zeige den folgenden Satz mit Hilfe einer Schleife einhundert mal an:
+„Ich werde niemals für Peanuts arbeiten. Amigo“
+Zeige jeden Wert auf einer neuen Zeile an.
+
+Anforderungen:
+•	Das Programm darf keinen Text von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss den in der Aufgabe genannten Text 100 mal anzeigen.
+•	Das Programm muss eine for-Schleife oder eine while-Schleife verwenden.

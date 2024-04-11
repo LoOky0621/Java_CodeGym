@@ -1,0 +1,13 @@
+Erstelle mit Hilfe der Klasse Ente  als Muster die Klassen Katze und Hund .
+Was denkst du, was die toString-Methode in den Klassen Katze und Hund zurückgeben sollte?
+Erstelle in der main-Methode zwei Objekte jeder Klasse und zeige sie auf dem Bildschirm an.
+Ente-Objekte wurden bereits angelegt und werden auf dem Bildschirm angezeigt.
+
+Anforderungen:
+•	Erstelle eine Katze-Klasse.
+•	Erstelle eine Hund-Klasse.
+•	Die Katze-Klasse muss die Methode toString korrekt implementieren.
+•	Die Hund-Klasse muss die Methode toString korrekt implementieren.
+•	Erstelle in der main-Methode zwei Katze-Objekte.
+•	Erstelle in der main-Methode zwei Hund-Objekte.
+•	Zeige alle angelegten Objekte auf dem Bildschirm an.

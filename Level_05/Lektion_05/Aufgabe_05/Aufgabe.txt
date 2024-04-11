@@ -1,0 +1,10 @@
+Verwende die Katze-Klasse, um drei Katzen anzulegen.
+Führe drei paarweise Kämpfe zwischen den Katzen durch.
+Du musst die Katze-Klasse nicht erst erstellen. Verwende für den Kampf die Methode boolean kaempfen(Katze andereKatze).
+Zeige das Ergebnis jedes Kampfes jedes Mal in einer neuen Zeile auf dem Bildschirm an.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Du musst drei Katze-Objekte anlegen.
+•	Du musst drei Kämpfe durchführen.
+•	Das Programm muss das Ergebnis jedes Kampfes jedes Mal in einer neuen Zeile auf dem Bildschirm anzeigen.

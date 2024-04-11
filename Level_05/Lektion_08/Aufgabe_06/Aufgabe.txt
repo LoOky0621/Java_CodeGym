@@ -1,0 +1,12 @@
+Studiere die Kreis-Klasse. Schreibe die maximale Anzahl der möglichen Konstruktoren mit unterschiedlichen Parametern.
+
+Hinweis:
+Vergiss nicht den Standardkonstruktor.
+
+Anforderungen:
+•	Die Klasse muss mindestens drei Variablen besitzen.
+•	Die Klasse muss einen Standardkonstruktor besitzen.
+•	Die Klasse muss mindestens einen Konstruktor besitzen.
+•	Die Klasse muss mindestens zwei Konstruktoren besitzen.
+•	Die Klasse muss mindestens drei Konstruktoren besitzen.
+•	Die Klasse muss mindestens vier Konstruktoren besitzen.

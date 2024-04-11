@@ -1,0 +1,21 @@
+Gib einen Namen über die Tastatur ein und verwende eine for-Schleife, um Folgendes 10-mal anzuzeigen: <name> liebt mich.
+
+Beispielausgabe für den Namen „Clara“:
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+Clara liebt mich.
+
+Anforderungen:
+•	Das Programm muss den Namen über die Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss den in der Aufgabe genannten Text 10-mal anzeigen.
+•	Das Programm muss eine for-Schleife verwenden.
+
+INPUT: Scarlett

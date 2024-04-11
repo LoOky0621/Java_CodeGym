@@ -1,0 +1,14 @@
+Gib über die Tastatur zwei Zahlen m und n ein.
+Verwende eine for-Schleife, um ein n x m großes Rechteck aus Achten anzuzeigen.
+
+Hier ist ein Beispiel: m=2, n=4
+8888
+8888
+
+Anforderungen:
+•	Das Programm muss zwei Zahlen von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss ein n x m großes Rechteck aus Achten anzeigen.
+•	Das Programm muss eine for-Schleife verwenden.
+
+INPUT: 3, 4

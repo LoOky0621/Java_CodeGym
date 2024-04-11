@@ -1,0 +1,10 @@
+Verwenden einer for-Schleife zur Anzeige:
+- einer horizontalen Linie aus 10 Achten
+- einer vertikalen Linie von 10 Achten (zähle keine der Achten in der horizontalen Linie als Teil dieser vertikalen Linie).
+
+Anforderungen:
+•	Das Programm darf keine Zahlen von der Tastatur einlesen.
+•	Das Programm muss Zahlen auf dem Bildschirm anzeigen.
+•	Das Programm muss eine horizontale Linie aus 10 Achten anzeigen.
+•	Das Programm muss eine vertikale Linie aus 10 Achten anzeigen.
+•	Das Programm muss eine for-Schleife verwenden.

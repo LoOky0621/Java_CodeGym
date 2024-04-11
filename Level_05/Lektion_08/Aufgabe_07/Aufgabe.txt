@@ -1,0 +1,12 @@
+Finde heraus, was das Programm macht.
+Finde und behebe einen Fehler in der Klasse Kreis. Verändere nicht die main-Methode.
+
+Hinweis:
+Studiere den Standardkonstruktor.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Verändere nicht die main-Methode.
+•	Das Programm muss das Wort "Rot" auf dem Bildschirm anzeigen.
+•	Die Methode getBeschreibung der Klasse Farbe muss den Wert der Variable beschreibung zurückgeben.
+•	Die Methode setBeschreibung der Klasse Farbe muss den Wert der Variable beschreibung setzen.

@@ -1,0 +1,12 @@
+Erstelle eine Freund-Klasse mit drei Konstruktoren:
+- Name
+- Name, Alter
+- Name, Alter, Geschlecht
+
+Anforderungen:
+•	Die Klasse Freund muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Freund muss eine int-Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse Freund muss eine char-Variable mit der Bezeichnung geschlecht besitzen.
+•	Die Klasse muss einen Konstruktor besitzen, der einen Namen als Parameter entgegennimmt und die entsprechende Instanzvariable initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der Name und Alter als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.
+•	Die Klasse muss einen Konstruktor besitzen, der einen Namen, ein Alter und ein Geschlecht als Parameter entgegennimmt und die entsprechenden Instanzvariablen initialisiert.

@@ -1,0 +1,41 @@
+Verwende die Tastatur, um Zahlen einzugeben und dann das arithmetische Mittel zu berechnen.
+Wenn der Benutzer -1 eingibt, zeige das arithmetische Mittel aller eingegebenen Zahlen an und beende das Programm.
+-1 darf nicht in die Berechnung einbezogen werden.
+
+Hier ein paar Beispiele:
+a) wenn du folgende Zahlen eingibst:
+1
+2
+2
+4
+5
+-1
+dann zeigen wir an:
+2.8
+
+b) wenn folgende Zahlen eingibst:
+4
+3
+2
+1
+-1
+dann zeigen wir an:
+2.5
+
+Tipp: Eine der Lösungen für dieses Problem verwendet das folgende Konstrukt:
+
+while (true) {
+    int zahl = Zahl einlesen;
+    if (prüfen, ob die Zahl -1 ist)
+        break;
+}
+Anforderungen:
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Das Programm muss Daten auf dem Bildschirm anzeigen.
+•	Nach der Eingabe von -1 muss das Programm korrekt beendet werden.
+•	Wenn du die Zahlen 1, 2, 2, 4, 5 und -1 nacheinander eingibst, muss das Programm 2,8 anzeigen.
+•	Wenn du die Zahlen -100, 0, 100 und -1 nacheinander eingibst, muss das Programm 0,0 anzeigen.
+•	Wenn du die Zahlen 1 und -1 nacheinander eingibst, muss das Programm 1,0 anzeigen.
+•	Das angezeigte Ergebnis muss den Aufgabenbedingungen für alle Eingabedaten entsprechen.
+
+INPUT: 78, 7, 17, 42, -1

@@ -1,0 +1,8 @@
+
+Schreibe in jeder Klasse (Katze und Hund) eine finalize-Methode, die Text zu einem bestimmten Objekt anzeigt, das zerstört wird.
+Anforderungen:
+•	Die Katze-Klasse muss die Methode void finalize besitzen.
+•	Die Hund-Klasse muss die Methode void finalize besitzen.
+•	Die Klassen Katze und Hund dürfen keine Konstruktoren besitzen oder müssen Konstruktoren ohne Parameter besitzen.
+•	Die finalize-Methode der Katze-Klasse muss "Eine Katze wurde zerstört" anzeigen.
+•	Die finalize-Methode der Hund-Klasse muss "Ein Hund wurde zerstört" anzeigen.

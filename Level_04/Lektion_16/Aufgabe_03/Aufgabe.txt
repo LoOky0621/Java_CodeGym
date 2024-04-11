@@ -1,0 +1,18 @@
+Gib über die Tastatur Zahlen ein.
+Wenn der Benutzer -1 eingibt, zeige die Summe aller eingegebenen Zahlen an und beende das Programm.
+-1 muss in der Summe enthalten sein.
+
+Tipp: Eine der Lösungen für dieses Problem verwendet das folgende Konstrukt:
+
+while (true) {
+    int zahl = Zahl einlesen;
+    if (prüfen, ob die Zahl -1 ist)
+        break;
+}
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Wenn der Benutzer -1 eingibt, muss das Programm die Summe aller eingegebenen Zahlen anzeigen und sich dann beenden.
+•	Das Programm muss die Summe der eingegebenen Zahlen berechnen und anzeigen.
+•	Das Programm muss eine for-Schleife oder eine while-Schleife verwenden.
+
+INPUT: 14, 11, 19, 9, -1

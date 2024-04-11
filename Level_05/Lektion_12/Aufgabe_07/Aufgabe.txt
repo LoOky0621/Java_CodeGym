@@ -1,0 +1,13 @@
+
+Aktuelle Implementierung: Das Programm liest zwei Zahlen von der Tastatur ein und zeigt die kleinere Zahl an.
+Neue Aufgabe: Das Programm liest fünf Zahlen von der Tastatur ein und zeigt die kleinste Zahl an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Die Klasse muss die Methode public static void main besitzen.
+•	Die Klasse muss die Methode public staic min besitzen, die 5 int-Parameter entgegennimmt.
+•	Die min-Methode muss die kleinste der 5 übergebenen Zahlen zurückgeben. Wenn es mehrere kleinste Zahlen gibt, gib eine davon zurück.
+•	Das Programm muss eine Zeichenkette anzeigen, die mit "Kleinste Zahl = " beginnt.
+•	Das Programm muss eine Zeichenkette anzeigen, die mit der kleinsten der 5 eingegebenen Zahlen endet.
+
+INPUT: 80, 7, -4, 16, -79

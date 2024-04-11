@@ -1,0 +1,25 @@
+Gib über die Tastatur zwei ganze Zahlen ein, die die Koordinaten eines Punktes darstellen, der nicht auf den Koordinatenachsen liegt.
+Zeige die Nummer des Quadranten an, der den angegebenen Punkt enthält.
+
+Hinweis:
+Punkt (a,b) gehört zu einem Quadranten, wenn die folgenden Bedingungen erfüllt sind:
+für den ersten Quadranten: a>0 und b>0;
+für den zweiten Quadranten: a<0 und b>0;
+für den dritten Quadranten: a<0 und b<0;
+für den vierten Quadranten: a>0 und b<0.
+
+Beispiel für 4 6:
+1
+
+Beispiel für -6 -6:
+3
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() verwenden.
+•	Wenn sich der Punkt im ersten Quadranten befindet, zeige „1“ an.
+•	Wenn sich der Punkt im zweiten Quadranten befindet, zeige „2“ an.
+•	Wenn sich der Punkt im dritten Quadranten befindet, zeige „3“ an.
+•	Wenn sich der Punkt im vierten Quadranten befindet, zeige „4“ an.
+
+INPUT: 3, -4

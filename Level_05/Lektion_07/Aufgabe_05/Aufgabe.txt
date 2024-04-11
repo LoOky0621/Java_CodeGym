@@ -1,0 +1,16 @@
+Erstelle eine Rechteck-Klasse. Die Daten für diese Klasse sind oben, links, breite, hoehe.
+Erstelle so viele initialisieren(...)-Methoden wie möglich
+
+Hier ein paar Beispiele:
+- Es werden 4 Parameter angegeben: links, oben, breite und hoehe
+- breite/hoehe ist nicht angegeben (beide sind 0)
+- hoehe ist nicht angegeben (sie entspricht breite), wir erstellen ein Quadrat
+- erstelle eine Kopie eines anderen Rechtecks, das als Parameter übergeben wird
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Rechteck-Klasse muss die int-Variablen oben, links, breite und hoehe besitzen.
+•	Die Klasse muss mindestens eine Initialisierungsmethode besitzen.
+•	Die Klasse muss mindestens zwei Initialisierungsmethoden besitzen.
+•	Die Klasse muss mindestens drei Initialisierungsmethoden besitzen.
+•	Die Klasse muss mindestens vier Initialisierungsmethoden besitzen.

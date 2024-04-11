@@ -1,0 +1,14 @@
+Schreib ein Programm, das:
+1. liest eine Zahl N (muss größer sein als 0) von der Konsole ein
+2. liest N Zahlen von der Konsole ein
+3. Zeigt die größte der N eingegebenen Zahlen an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Die Klasse muss die Methode public static void main besitzen.
+•	Füge der Klasse Solution keine neuen Methoden hinzu.
+•	Das Programm muss die größte der N eingegebenen Zahlen anzeigen.
+•	Das Programm darf nichts anzeigen, wenn N kleiner oder gleich 0 ist.
+
+INPUT: 5, 6, 7, 71, 9, 19

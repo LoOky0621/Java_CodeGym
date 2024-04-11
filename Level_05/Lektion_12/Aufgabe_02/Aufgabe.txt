@@ -1,0 +1,15 @@
+1. Erstelle innerhalb der Solution-Klasse die public static-Klassen Mann und Frau.
+2. Die Klassen müssen die folgenden Felder besitzen: String name, int alter, String adresse.
+3. Erstelle Konstruktoren, die alle möglichen Parameter besitzen.
+4. Erstelle mit Hilfe eines Konstruktors zwei Objekte jeder Klasse mit vollständigen Daten.
+5. Zeige die Objekte auf dem Bildschirm in diesem Format an: name + " " + alter + " " + adresse
+
+Anforderungen:
+•	Erstelle in der Klasse Solution eine public static-Klasse Mann.
+•	Erstelle in der Klasse Solution eine public static-Klasse Frau.
+•	Die Klasse Mann muss Variablen besitzen: String name, int alter und String adresse.
+•	Die Klasse Frau muss Variablen besitzen: String name, int alter und String adresse.
+•	Die Klassen Mann und Frau müssen Konstruktoren besitzen, die String-, int und String-Parameter entgegennehmen.
+•	Die Konstruktoren müssen die Instanzvariablen initialisieren.
+•	In der main-Methode musst du zwei Objekte jedes Typs anlegen.
+•	Die main-Methode muss die erstellten Objekte auf dem Bildschirm im angegebenen Format anzeigen.

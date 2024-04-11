@@ -1,0 +1,15 @@
+Erstelle eine Rechteck-Klasse. Die Daten für diese Klasse sind oben, links, breite und hoehe.
+Erstelle so viele Konstruktoren wie möglich.
+
+Hier ein paar Beispiele:
+- 4 Parameter werden angegeben: links, oben, breite, hoehe
+- breite/hoehe ist nicht angegeben (beide sind 0)
+- hoehe ist nicht angegeben (sie entspricht breite), wir erstellen ein Quadrat
+- eine Kopie eines anderen Rechtecks erstellen, das als Parameter übergeben wird
+
+Anforderungen:
+•	Die Rechteck-Klasse muss die int-Variablen oben, links, breite und hoehe besitzen.
+•	Die Klasse muss mindestens einen Konstruktor besitzen.
+•	Die Klasse muss mindestens zwei Konstruktoren besitzen.
+•	Die Klasse muss mindestens drei Konstruktoren besitzen.
+•	Die Klasse muss mindestens vier Konstruktoren besitzen.

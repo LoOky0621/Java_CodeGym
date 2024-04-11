@@ -1,0 +1,16 @@
+Erstelle die Person-Klasse. Eine Person benötigt die Variablen String name, int alter und char geschlecht.
+Erstelle Abfrage- und Änderungsmethoden für alle Variablen der Person-Klasse.
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Klasse Person muss die Methode public static void main besitzen.
+•	Die Person-Klasse muss 3 Variablen besitzen.
+•	Die Klasse Person muss eine String-Variable mit der Bezeichnung name besitzen.
+•	Die Klasse Person muss eine int-Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse Person muss eine char-Variable mit der Bezeichnung geschlecht besitzen.
+•	Die Klasse muss eine Änderungsmethode für die Variable mit der Bezeichnung name besitzen.
+•	Die Klasse muss eine Abfragemethode für die Variable mit der Bezeichnung name besitzen.
+•	Die Klasse muss eine Änderungsmethode für die Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse muss eine Abfragemethode für die Variable mit der Bezeichnung alter besitzen.
+•	Die Klasse muss eine Änderungsmethode für die Variable mit der Bezeichnung geschlecht besitzen.
+•	Die Klasse muss eine Abfragemethode für die Variable mit der Bezeichnung geschlecht besitzen.
