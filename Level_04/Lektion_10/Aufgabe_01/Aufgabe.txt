@@ -1,0 +1,8 @@
+Zeige die Zahlen von 1 bis 10 mit Hilfe einer while-Schleife an. Jeder Wert muss in einer neuen Zeile angezeigt werden.
+
+Anforderungen:
+•	Das Programm darf die Zahlen nicht von der Tastatur einlesen.
+•	Das Programm muss Zahlen auf dem Bildschirm anzeigen.
+•	Jeder Wert muss in einer neuen Zeile angezeigt werden.
+•	Das Programm muss die Zahlen von 1 bis 10 anzeigen.
+•	Das Programm muss eine while-Schleife verwenden.

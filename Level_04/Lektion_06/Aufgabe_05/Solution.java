@@ -17,4 +17,3 @@ public class Solution {
             System.out.println("Du bist noch zu jung");
     }
 }
-// Input Donald 16

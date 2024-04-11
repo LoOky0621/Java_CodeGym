@@ -46,4 +46,3 @@ public class Solution {
         System.out.println(pos1+" "+pos2+" "+pos3);
     }
 }
-// Input 5, 4, 7

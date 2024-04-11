@@ -1,0 +1,30 @@
+Gib über die Tastatur drei ganze Zahlen ein. Zeige die Anzahl der positiven Zahlen und die Anzahl der negativen Zahlen im ursprünglichen Datensatz in der folgenden Form an:
+„Anzahl negativer Zahlen: a“ und „Anzahl positiver Zahlen: b“, wobei a und b Unbekannte sind.
+
+Hier ein paar Beispiele:
+a) wenn du folgende Zahlen eingibst:
+2
+5
+6
+dann zeigen wir an:
+Anzahl negativer Zahlen: 0
+Anzahl positiver Zahlen: 3
+
+b) wenn folgende Zahlen eingibst:
+-2
+-5
+6
+dann zeigen wir an:
+Anzahl negativer Zahlen: 2
+Anzahl positiver Zahlen: 1
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss die Anzahl der negativen Zahlen im ursprünglichen Datensatz anzeigen.
+•	Das Programm muss die Anzahl der positiven Zahlen im ursprünglichen Datensatz anzeigen.
+•	Wenn es keine negativen Zahlen gibt, muss das Programm „Anzahl negativer Zahlen: 0“ anzeigen.
+•	Wenn es keine positiven Zahlen gibt, muss das Programm „Anzahl positiver Zahlen: 0“ anzeigen.
+•	Beachte, dass 0 keine positive oder negative Zahl ist.
+
+INPUT:r -5, 5, 4

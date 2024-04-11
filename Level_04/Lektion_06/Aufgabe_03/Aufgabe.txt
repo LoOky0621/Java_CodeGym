@@ -7,3 +7,5 @@ Anforderungen:
 •	Das Programm muss Zahlen auf dem Bildschirm anzeigen.
 •	Das Programm muss drei Zahlen durch Leerzeichen getrennt anzeigen.
 •	Das Programm muss die Zahlen in absteigender Reihenfolge anzeigen.
+
+INPUT: 5, 4, 7

@@ -1,0 +1,32 @@
+Gib über die Tastatur drei ganze Zahlen ein. Zeigt die Anzahl der positiven Zahlen im ursprünglichen Datensatz an.
+
+Hier ein paar Beispiele:
+a) wenn du folgende Zahlen eingibst:
+-4
+6
+6
+dann zeigen wir an:
+2
+
+b) wenn folgende Zahlen eingibst:
+-6
+-6
+-3
+dann zeigen wir an:
+0
+
+c) wenn du die folgenden Zahlen eingibst:
+0
+1
+2
+dann zeigen wir an:
+2
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Das Programm muss die Anzahl der positiven Zahlen im ursprünglichen Datensatz anzeigen.
+•	Wenn es keine positiven Zahlen gibt, muss das Programm „0“ anzeigen.
+•	Beachte, dass 0 keine positive oder negative Zahl ist.
+
+INPUT: -5, -6, 6

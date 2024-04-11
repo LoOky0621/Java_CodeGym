@@ -1,10 +1,23 @@
-Korrigiere den Fehler im Programm. Das Programm muss die Zahl 100 ausgeben.
+Gib über die Tastatur eine ganze Zahl ein. Zeige eine Zeichenkettenbeschreibung wie folgt an:
+„Negative gerade Zahl“ – wenn die Zahl negativ und gerade ist,
+„Negative ungerade Zahl“ – wenn die Zahl negativ und ungerade ist,
+„Null“ – wenn die Zahl 0 ist,
+„Positive gerade Zahl“ – wenn die Zahl positiv und gerade ist,
+„Positive ungerade Zahl“ – wenn die Zahl positiv und ungerade ist.
+
+Beispiel für 100:
+Positive gerade Zahl
+
+Beispiel für -51:
+Negative ungerade Zahl
 
 Anforderungen:
-•	Das Programm muss Text ausgeben.
-•	Drei Variablen müssen deklariert werden.
-•	Du darfst die Typen der Variablen nicht ändern.
-•	Du darfst die Werte der Variablen nicht ändern.
-•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
-•	Ändere so wenig wie möglich an dem Bildschirmausgabe-Befehl.
-•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.
+•	Das Programm muss eine Zahl von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() verwenden.
+•	Wenn die Zahl negativ und gerade ist, zeige „Negative gerade Zahl“ an.
+•	Wenn die Zahl negativ und ungerade ist, zeige „Negative ungerade Zahl“ an.
+•	Wenn die Zahl 0 ist, zeige „Null“ an.
+•	Wenn die Zahl positiv und gerade ist, zeige „Positive gerade Zahl“ an.
+•	Wenn die Zahl positiv und ungerade ist, zeige „Positive ungerade Zahl“ an.
+
+INPUT: 42

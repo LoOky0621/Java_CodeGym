@@ -10,3 +10,5 @@ Anforderungen:
 •	Das Programm muss System.out.println() oder System.out.print() verwenden.
 •	Das Programm muss die Ordnungszahl der Zahl anzeigen, die sich von den anderen unterscheidet.
 •	Wenn alle Zahlen unterschiedlich sind, zeige nichts an.
+
+INPUT: 9, 2, 9

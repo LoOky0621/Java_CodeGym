@@ -8,3 +8,5 @@ Anforderungen:
 •	Wenn die Namen identisch sind, zeige „Die Namen sind identisch“ an.
 •	Wenn die Namen unterschiedlich sind, aber die Länge gleich ist, zeige „Die Namen sind gleich lang“ an.
 •	Wenn die Namen und ihre Länge unterschiedlich sind, zeige nichts an.
+
+INPUT: John, Michael

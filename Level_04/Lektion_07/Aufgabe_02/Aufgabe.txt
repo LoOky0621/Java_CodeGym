@@ -1,8 +1,28 @@
-Kommentiere Variablen aus, die nirgendwo benutzt werden. Das Programm muss sich kompilieren lassen.
+Gib über die Tastatur eine ganze Zahl im Bereich 1 - 999 ein. Zeige eine Zeichenkettenbeschreibung wie folgt an:
+„gerade einstellige Zahl“ – wenn die Zahl gerade ist und eine Ziffer hat,
+„ungerade einstellige Zahl“ – wenn die Zahl ungerade ist und eine Ziffer hat,
+„gerade zweistellige Zahl“ – wenn die Zahl gerade ist und zwei Ziffern hat,
+„ungerade zweistellige Zahl“ – wenn die Zahl ungerade ist und zwei Ziffern hat,
+„gerade dreistellige Zahl“ – wenn die Zahl gerade ist und drei Ziffern hat,
+„ungerade dreistellige Zahl“ – wenn die Zahl ungerade ist und drei Ziffern hat,
+Wenn die eingegebene Zahl nicht im Bereich 1 - 999 liegt, zeige nichts an.
+
+Beispiel für 100:
+gerade dreistellige Zahl
+
+Beispiel für 51:
+ungerade zweistellige Zahl
 
 Anforderungen:
-•	Du darfst die Typen der Variablen nicht ändern.
-•	Du darfst die Werte der Variablen nicht ändern.
-•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
-•	Du musst die nicht verwendeten Variablen auskommentieren.
-•	Die Ausgabe des Programms sollte sich nicht ändern.
+•	Das Programm muss eine Zahl von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() verwenden.
+•	Wenn die Zahl gerade ist und eine Ziffer hat, zeige „gerade einstellige Zahl“ an.
+•	Wenn die Zahl ungerade ist und eine Ziffer hat, zeige „ungerade einstellige Zahl“ an.
+•	Wenn die Zahl gerade ist und zwei Ziffern hat, zeige „gerade zweistellige Zahl“ an.
+•	Wenn die Zahl ungerade ist und zwei Ziffern hat, zeige „ungerade zweistellige Zahl“ an.
+•	Wenn die Zahl gerade ist und drei Ziffern hat, zeige „gerade dreistellige Zahl“ an.
+•	Wenn die Zahl ungerade ist und drei Ziffern hat, zeige „ungerade dreistellige Zahl“ an.
+•	Wenn die eingegebene Zahl nicht im Bereich 1 - 999 liegt, zeige nichts an
+•	Das Programm muss eine Zeichenkettenbeschreibung der Zahl anzeigen und nichts anderes.
+
+INPUT: 42

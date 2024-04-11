@@ -21,5 +21,3 @@ public class Solution {
         }
     }
 }
-
-// Input John, Michael

@@ -5,3 +5,5 @@ Anforderungen:
 •	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
 •	Das Programm muss die kleinere von zwei ganzen Zahlen anzeigen.
 •	Wenn die beiden Zahlen gleich sind, zeige eine der beiden Zahlen an.
+
+INPUT:  7, 9

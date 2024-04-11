@@ -1,0 +1,20 @@
+Verwende eine while-Schleife, um ein 10x10-Quadrat von Dollarzeichen anzuzeigen.
+Trenne die Zeichen in jeder Zeile nicht.
+
+Beispiel-Ausgabe:
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+$$$$$$$$$$
+
+Anforderungen:
+•	Das Programm darf keinen Text von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Das Programm muss ein 10x10-Quadrat von Dollarzeichen anzeigen.
+•	Das Programm muss eine while-Schleife verwenden.

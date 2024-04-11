@@ -26,5 +26,3 @@ public class Solution {
         }
     }
 }
-
-// Input 9, 2, 9

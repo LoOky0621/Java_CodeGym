@@ -5,3 +5,5 @@ Anforderungen:
 •	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
 •	Das Programm muss die größte von vier Zahlen anzeigen.
 •	Wenn die größte Zahl mehrmals vorkommt, zeige sie nur einmal an.
+
+INPUT: 8, 9, 5, 8

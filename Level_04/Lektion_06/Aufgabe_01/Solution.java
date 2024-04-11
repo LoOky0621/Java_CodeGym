@@ -22,4 +22,3 @@ public class Solution {
             System.out.println(zahl2);
     }
 }
-// Input 7, 9

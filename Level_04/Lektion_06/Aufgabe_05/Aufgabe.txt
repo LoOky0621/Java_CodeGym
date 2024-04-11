@@ -5,3 +5,5 @@ Anforderungen:
 •	Das Programm muss System.out.println() oder System.out.print() verwenden.
 •	Wenn das Alter unter 18 Jahren liegt, zeige „Du bist noch zu jung“ und nichts anderes an.
 •	Wenn das Alter größer oder gleich 18 ist, zeige nichts an.
+
+INPUT: Donald 16

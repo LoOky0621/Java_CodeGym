@@ -1,0 +1,19 @@
+Gib mit der Tastatur eine Zeichenkette und eine Zahl N größer als 0 ein.
+Verwende eine while-Schleife, um die Zeichenkette N-mal anzuzeigen. Jeder Wert muss in einer neuen Zeile angezeigt werden.
+
+Beispiel-Eingabe:
+abc
+2
+
+Beispiel-Ausgabe:
+abc
+abc
+
+Anforderungen:
+•	Das Programm muss den Text über die Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Jeder Wert muss in einer neuen Zeile angezeigt werden.
+•	Das Programm muss die Zeichenkette N-mal anzeigen.
+•	Das Programm muss eine while-Schleife verwenden.
+
+INPUT: 6

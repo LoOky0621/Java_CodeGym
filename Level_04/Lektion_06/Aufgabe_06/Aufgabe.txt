@@ -5,3 +5,5 @@ Anforderungen:
 •	Das Programm muss System.out.println() oder System.out.print() verwenden.
 •	Wenn das Alter größer ist als 20, zeige „18 ist alt genug“ und sonst nichts an.
 •	Wenn das Alter kleiner oder gleich 20 ist, zeige nichts an.
+
+INPUT: Bruce 22

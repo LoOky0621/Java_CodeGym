@@ -16,5 +16,3 @@ public class Solution {
             System.out.println("18 ist alt genug");
     }
 }
-
-// input data Bruce 22

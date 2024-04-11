@@ -30,4 +30,3 @@ public class Solution {
         System.out.println(zahlneu);
     }
 }
-// Input 8, 9, 5, 8

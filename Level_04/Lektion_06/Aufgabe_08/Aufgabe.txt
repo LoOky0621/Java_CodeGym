@@ -21,3 +21,5 @@ Anforderungen:
 •	Wenn sich der Punkt im zweiten Quadranten befindet, zeige „2“ an.
 •	Wenn sich der Punkt im dritten Quadranten befindet, zeige „3“ an.
 •	Wenn sich der Punkt im vierten Quadranten befindet, zeige „4“ an.
+
+INPUT: 3, -4
