@@ -1,0 +1,14 @@
+Schreibe den Code für quersummeBerechnen(int zahl). Die Methode nimmt eine dreistellige ganze Zahl entgegen. Du musst die Quersumme dieser Zahl berechnen und dann das Ergebnis zurückgeben.
+
+Betrachte dieses Beispiel:
+Die Methode quersummeBerechnen wird mit dem Parameter 546 aufgerufen.
+
+Beispiel-Ausgabe:
+15
+
+Anforderungen:
+•	Das Programm darf keine Daten von der Tastatur lesen.
+•	Die Methode quersummeBerechnen(int) muss public und static sein.
+•	Die Methode quersummeBerechnen muss ein int zurückgeben.
+•	Die Methode quersummeBerechnen soll nichts anzeigen.
+•	Die Methode quersummeBerechnen muss die Quersumme der Parameterzahl zurückgeben.

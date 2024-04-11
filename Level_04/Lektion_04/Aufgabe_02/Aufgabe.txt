@@ -1,0 +1,12 @@
+Schreibe die Methode naechsteAnZehnAnzeigen. Die Methode muss den Parameter anzeigen, der am nächsten an 10 ist.
+Wenn du zum Beispiel die Zahlen 8 und 11 nimmst, ist die 11 am nächsten an der Zehn. Wenn beide Zahlen gleich nah an der 10 sind, dann zeige eine davon an.
+
+Hinweis:
+verwende die Methode public static int abs(int a), die den absoluten Betrag einer Zahl zurückgibt.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print() aufgerufen werden.
+•	In der Methode main muss die Methode naechsteAnZehnAnzeigen aufgerufen werden.
+•	In der Methode naechsteAnZehnAnzeigen muss die Methode abs aufgerufen werden.
+•	Die Methode naechsteAnZehnAnzeigen muss eine Zahl entsprechend den Aufgabenbedingungen auf dem Bildschirm anzeigen.

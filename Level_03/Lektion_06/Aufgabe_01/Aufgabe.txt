@@ -1,0 +1,15 @@
+Zeige alle möglichen Kombinationen der Wörter „Sam“, „I“, „Am“ an.
+
+Tipp: Es gibt 6 Kombinationen.
+Zeige jede Kombination in einer neuen Zeile an. Trenne die Wörter nicht.
+
+Betrachte dieses Beispiel:
+IAmSam
+AmSamI
+...
+
+Anforderungen:
+•	The program should output text.
+•	The displayed text should contain 6 lines.
+•	The text on each line must be unique.
+•	All possible combinations should be displayed.

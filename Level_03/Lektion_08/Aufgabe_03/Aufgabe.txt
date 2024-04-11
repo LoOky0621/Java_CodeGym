@@ -1,0 +1,13 @@
+Gib die Zahl und den Namen über die Tastatur ein. Zeige die folgende Zeichenkette an:
+<Namen> wird in <Zahl> Jahren die Welt erobern. Muha-ha-ha!
+
+Hier ist ein Beispiel:
+Kevin wird in 8 Jahren die Welt erobern. Muha-ha-ha!
+
+Die Reihenfolge, in der die Daten eingegeben werden, ist sehr wichtig.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Der angezeigte Text muss den eingegebenen Namen enthalten.
+•	Der angezeigte Text muss die eingegebene Zahl enthalten.

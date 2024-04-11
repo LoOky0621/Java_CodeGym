@@ -1,0 +1,14 @@
+Schreibe die Methode intervallPruefen. Die Methode muss prüfen, ob eine ganze Zahl im Bereich von 50 bis 100  liegt und das Ergebnis wie folgt auf dem Bildschirm anzeigen: „Die Zahl a liegt nicht im Intervall.“ oder „Die Zahl a liegt im Intervall.“, wobei a der Methodenparameter ist.
+
+Beispiel für 112:
+Die Zahl 112 liegt nicht im Intervall.
+
+Beispiel für 60:
+Die Zahl 60 liegt im Intervall.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print() aufgerufen werden.
+•	Die main-Methode muss die Methode intervallPruefen aufrufen.
+•	Die Methode intervallPruefen muss static void sein.
+•	Die Methode intervallPruefen muss Text in Übereinstimmung mit den Aufgabenbedingungen auf dem Bildschirm anzeigen.

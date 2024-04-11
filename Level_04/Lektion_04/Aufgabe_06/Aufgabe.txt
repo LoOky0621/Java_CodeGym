@@ -1,0 +1,14 @@
+
+Gib über die Tastatur eine Zahl ein, die einem Wochentag entspricht. Zeige dann abhängig von der eingegebenen Zahl den Namen des Wochentages an: „Montag“, „Dienstag“, „Mittwoch“, „Donnerstag“, „Freitag“, „Samstag“, „Sonntag“. Wenn du eine Zahl größer als 7 oder kleiner als 1 eingibst, dann zeige „Diesen Wochentag gibt es nicht“ an.
+
+Beispiel für die Zahl 5:
+Freitag
+
+Beispiel für die Zahl 10:
+Diesen Wochentag gibt es nicht
+
+Anforderungen:
+•	Das Programm muss eine Zahl von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Wenn du eine Zahl von 1 bis 7 eingibst, musst du den Namen des Wochentages anzeigen.
+•	Wenn du eine Zahl außerhalb des Bereichs von 1 bis 7 eingibst, dann zeige eine Meldung an, dass es keinen solchen Wochentag gibt.

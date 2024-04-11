@@ -1,0 +1,11 @@
+Schreibe die Methode vergleichen(int a), so dass sie:
+- „die Zahl ist kleiner als 5“ anzeigt, wenn der Methodenparameter kleiner als 5 ist,
+- „die Zahl ist größer als 5“ anzeigt, wenn der Methodenparameter größer als 5 ist,
+- „die Zahl ist gleich 5“ anzeigt, wenn der Methodenparameter gleich 5 ist.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	In der Methode main muss die Methode vergleichen aufgerufen werden.
+•	Die Methode vergleichen muss den Typ void haben.
+•	Die Methode vergleichen muss Text in Übereinstimmung mit den Aufgabenbedingungen auf dem Bildschirm anzeigen.

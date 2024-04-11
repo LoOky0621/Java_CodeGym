@@ -1,0 +1,21 @@
+Gib über die Tastatur ein Jahr ein und ermittle dann die Anzahl der Tage in diesem Jahr. Zeige das Ergebnis wie folgt an:
+Anzahl der Tage im Jahr: x
+, wobei
+x = 366 für ein Schaltjahr und
+x = 365 für ein normales Jahr.
+
+Hinweis:
+Ein Schaltjahr hat 366 Tage, aber ein normales Jahr hat 365 Tage.
+1) wenn das Jahr durch 400 teilbar ist, dann ist es ein Schaltjahr;
+2) für andere Jahre gilt, wenn das Jahr durch 100 teilbar ist, dann ist es ein normales Jahr;
+3) für andere Jahre gilt, wenn das Jahr durch 4 teilbar ist, dann ist es ein Schaltjahr;
+4) Alle übrigen Jahre sind keine Schaltjahre.
+Somit sind die Jahre 1700, 1800 und 1900 keine Schaltjahre, da sie Vielfache von 100, aber nicht von 400 sind.
+Die Jahre 1600 und 2000 sind Schaltjahre, da sie Vielfache von 100 und Vielfache von 400 sind.
+Die Jahre 2100, 2200 und 2300 sind keine Schaltjahre.
+
+Anforderungen:
+•	Das Programm muss eine Zahl von der Tastatur einlesen.
+•	Das Programm muss Text entsprechend den Aufgabenbedingungen auf dem Bildschirm anzeigen.
+•	Wenn das eingegebene Jahr ein Schaltjahr ist, musst du folgendes anzeigen: „Anzahl der Tage im Jahr: 366“.
+•	Wenn das eingegebene Jahr kein Schaltjahr ist, musst du folgendes anzeigen: „Anzahl der Tage im Jahr: 365“.

@@ -1,0 +1,8 @@
+Schreibe Code in die Methode neueKatzeZufuegen, um die Anzahl der Katzen jedes Mal um 1 zu erhöhen, wenn sie aufgerufen wird.
+Die Variable katzenAnzahl entspricht der Anzahl der Katzen.
+
+Anforderungen:
+•	Die Klasse Katze darf nur eine Variable katzenAnzahl haben.
+•	Die Variable katzenAnzahl muss ein static int sein, den Zugriffsmodifikator private haben und mit 0 initialisiert werden.
+•	Die Klasse Katze darf zwei Methoden enthalten: neueKatzeZufuegen und main.
+•	Die Methode neueKatzeZufuegen der Klasse Katze muss die Anzahl der Katzen um 1 erhöhen.

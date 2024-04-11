@@ -1,0 +1,9 @@
+Schreibe einen Code, der die Anzahl der erstellten Katzen (anzahl) korrekt zählt und die korrekte Anzahl der Katzen auf dem Bildschirm anzeigt.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Mach keine Änderungen in der Zeile, die für die Bildschirmausgabe zuständig ist.
+•	Die Klasse Katze darf nur eine Variable anzahl haben.
+•	Die Variable anzahl der Klasse Katze muss ein static int sein, den Zugriffsmodifikator public haben und mit 0 initialisiert werden.
+•	Die Methode main darf nur zwei initialisierte Katze-Variablen enthalten.
+•	Die variable anzahl muss die tatsächliche Anzahl der erstellten Katze-Objekte speichern.

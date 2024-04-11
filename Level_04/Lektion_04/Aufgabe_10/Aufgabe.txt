@@ -1,0 +1,24 @@
+Gib über die Tastatur drei ganze Zahlen ein. Ermittle, ob sich mindestens ein Paar gleicher Zahlen unter ihnen befindet.
+Wenn ein solches Paar existiert, zeige die Zahlen durch ein Leerzeichen getrennt an.
+Wenn alle drei Zahlen gleich sind, dann zeige alle drei an.
+Hier ein paar Beispiele:
+a) wenn du folgende Zahlen eingibst:
+1
+2
+2
+dann zeigen wir an
+2 2
+
+b) wenn folgende Zahlen eingibst:
+2
+2
+2
+dann zeigen wir an
+2 2 2
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() enthalten.
+•	Wenn zwei Zahlen gleich sind, musst du sie auf dem Bildschirm anzeigen.
+•	Wenn alle drei Zahlen gleich sind, dann zeige alle drei an.
+•	Wenn es keine gleichen Zahlen gibt, zeige nichts an.

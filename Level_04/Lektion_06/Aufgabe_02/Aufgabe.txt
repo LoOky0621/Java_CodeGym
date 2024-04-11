@@ -1,0 +1,7 @@
+Gib über die Tastatur vier Zahlen ein und zeige dann die größte von ihnen an. Wenn die größte Zahl mehr als einmal vorkommt, zeige sie nur einmal an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Das Programm muss die größte von vier Zahlen anzeigen.
+•	Wenn die größte Zahl mehrmals vorkommt, zeige sie nur einmal an.

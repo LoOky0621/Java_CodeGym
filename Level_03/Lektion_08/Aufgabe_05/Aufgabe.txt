@@ -1,0 +1,11 @@
+Verwende die Tastatur, um einen Namen einzugeben und zeige dann folgendes an:
+<Namen> verdient 120.000 Euro im Jahr. Ha-ha-ha!
+
+Zum Beispiel:
+Sara verdient 120.000 Euro im Jahr. Ha-ha-ha!
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Der angezeigte Text muss den eingegebenen Namen enthalten.
+•	Der angezeigte Text muss die Aufgabenbedingungen vollständig erfüllen.

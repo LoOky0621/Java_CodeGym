@@ -1,0 +1,17 @@
+
+Schreibe die Methode jahreszeitPruefen. Basierend auf einer Zahl, die für einen Monat steht, muss die Methode die Jahreszeit (Winter, Frühling, Sommer, Herbst) ermitteln und anzeigen.
+
+Beispiel für die Zahl 2:
+Winter
+
+Beispiel für die Zahl 5:
+Frühling
+
+Hinweis: Die Zahlen 12, 1 und 2 sind Wintermonate; 3, 4 und 5 sind Frühling usw.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	In der Methode main darf nicht System.out.println or System.out.print aufgerufen werden.
+•	Die main-Methode muss die Methode jahreszeitPruefen aufrufen.
+•	Die Methode jahreszeitPruefen muss static void sein und darf nur einen int-Parameter haben.
+•	Die Methode jahreszeitPruefen muss Text in Übereinstimmung mit den Aufgabenbedingungen auf dem Bildschirm

@@ -1,0 +1,13 @@
+Gib über die Tastatur drei Namen ein und zeig dann Folgendes an:
+name1 + name2 + name3 = Reine Liebe. Ooo la-la!
+
+Zum Beispiel:
+Kevin + Eva + Angelika = Reine Liebe. Ooo la-la!
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Der angezeigte Text muss den eingegebenen Namen name1 enthalten.
+•	Der angezeigte Text muss den eingegebenen Namen name2 enthalten.
+•	Der angezeigte Text muss den eingegebenen Namen name3 enthalten.
+•	Der angezeigte Text muss die Aufgabenbedingungen vollständig erfüllen.

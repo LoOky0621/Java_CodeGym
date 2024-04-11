@@ -1,0 +1,12 @@
+Gib über die Tastatur eine Zahl ein.
+Wenn die Zahl positiv ist, dann verdopple sie.
+Wenn die Zahl negativ ist, dann addiere 1 hinzu.
+Wenn die eingegebene Zahl 0 ist, dann zeige 0 an.
+Zeige das Ergebnis auf dem Bildschirm an.
+
+Anforderungen:
+•	Das Programm muss eine Zahl von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Wenn die eingegebene Zahl positiv ist, verdopple sie und zeige das Ergebnis an.
+•	Wenn die eingegebene Zahl negativ ist, erhöhe sie um 1 und zeige das Ergebnis an.
+•	Wenn die eingegebene Zahl 0 ist, dann zeige 0 an.

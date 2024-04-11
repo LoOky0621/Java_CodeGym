@@ -1,0 +1,14 @@
+Gib über die Tastatur jeweils den Namen, Zahl1 und Zahl2 ein.
+Zeige den folgenden Satz an:
+<Namen> wird <Zahl1> in <Zahl2> Jahren erhalten.
+
+Hier ist ein Beispiel:
+Nick wird 10000 in 5 Jahren erhalten.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Der angezeigte Text muss den eingegebenen Namen enthalten.
+•	Der angezeigte Text muss die eingegebene Zahl1 enthalten
+•	Der angezeigte Text muss die eingegebene Zahl2 enthalten.
+•	Der angezeigte Text muss die Aufgabenbedingungen vollständig erfüllen.

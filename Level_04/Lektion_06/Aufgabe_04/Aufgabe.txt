@@ -1,0 +1,10 @@
+Gib über die Tastatur zwei Namen ein. Wenn die Namen identisch sind, zeige „Die Namen sind identisch“ an.
+Wenn die Namen unterschiedlich sind, aber die Länge gleich ist, zeige „Die Namen sind gleich lang“ an.
+Wenn die Namen und ihre Länge unterschiedlich sind, zeige nichts an.
+
+Anforderungen:
+•	Das Programm muss zwei Zeilen von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() enthalten.
+•	Wenn die Namen identisch sind, zeige „Die Namen sind identisch“ an.
+•	Wenn die Namen unterschiedlich sind, aber die Länge gleich ist, zeige „Die Namen sind gleich lang“ an.
+•	Wenn die Namen und ihre Länge unterschiedlich sind, zeige nichts an.

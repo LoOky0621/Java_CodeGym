@@ -1,0 +1,13 @@
+Denke darüber nach, was das Programm tut.
+Behebe den Programmierfehler, so dass person.alter den Wert verändert.
+
+Hinweis:
+sieh dir die Methode alterAnpassen genau an.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Die Person-Klasse muss ein public int-Feld namens alter haben.
+•	Die Methode alterAnpassen der Person-Klasse muss Text auf dem Bildschirm anzeigen.
+•	Die Methode alterAnpassen der Person-Klasse darf nur einen int-Parameter namens alter haben, und die Methode muss vom Typ void sein.
+•	In der Methode main darf die Methode alterAnpassen nur einmal aufgerufen werden.
+•	Die Methode alterAnpassen der Person-Klasse muss das Alter der Person um 20 Jahre erhöhen.

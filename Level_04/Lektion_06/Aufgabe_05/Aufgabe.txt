@@ -1,0 +1,7 @@
+Gib über die Tastatur den Namen und das Alter ein. Wenn das Alter kleiner ist als 18, zeige „Du bist noch zu jung“ an.
+
+Anforderungen:
+•	Das Programm muss zweimal Daten von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() verwenden.
+•	Wenn das Alter unter 18 Jahren liegt, zeige „Du bist noch zu jung“ und nichts anderes an.
+•	Wenn das Alter größer oder gleich 18 ist, zeige nichts an.

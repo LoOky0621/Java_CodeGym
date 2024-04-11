@@ -1,0 +1,10 @@
+
+Berechne die Gesamtkosten für Äpfel.
+Die Gesamtkosten für Äpfel entsprechen dem public static int apfelpreis.
+
+Anforderungen:
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Die Methode preisZufuegen der Apfel-Klasse darf keinen Text auf dem Bildschirm anzeigen.
+•	Die Apfel-Klassenvariable apfelpreis muss ein static int sein, das mit 0 initialisiert wird.
+•	In der Methode main darf die Methode preisZufuegen nur zweimal aufgerufen werden.
+•	Die preisZufuegen-Methode der Apfel-Klasse muss die Kosten für Äpfel um den eingegebenen Wert erhöhen.

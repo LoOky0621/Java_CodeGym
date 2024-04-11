@@ -1,0 +1,8 @@
+Schreibe die Methode nameFestlegen so fertig, dass sie den Wert von private String vollstaendigerName auf den Wert er lokalen String-Variable vollstaendigerName setzt.
+
+Anforderungen:
+•	Die Klasse Katze darf nur eine Variable vollstaendigerName enthalten.
+•	Die Variable vollstaendigerName muss ein String sein und den Zugriffsmodifikator private haben.
+•	Die Klasse Katze darf nur zwei Methoden enthalten: nameFestlegen und main.
+•	Die Methode nameFestlegen muss eine lokale Variable vollstaendigerName haben.
+•	Die Methode nameFestlegen der Klasse Katze muss den Wert der globalem String-Variable vollstaendigerName gleich der lokalen Variable vollstaendigerName setzen.

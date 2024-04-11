@@ -1,0 +1,7 @@
+Schreibe einen Code, der berechnet, wie viele Sekunden seit 15.00 Uhr vergangen sind, wenn die Uhr 15.30 Uhr zeigt. Zeige das Ergebnis auf dem Bildschirm an.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der angezeigte Text muss eine positive ganze Zahl sein.
+•	Die angezeigte Zahl muss ein Vielfaches von 60 sein.
+•	Die angezeigte Zahl muss die Bedingungen der Aufgabe erfüllen.

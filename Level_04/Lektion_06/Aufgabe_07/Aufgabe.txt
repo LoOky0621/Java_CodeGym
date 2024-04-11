@@ -1,0 +1,12 @@
+Gib über die Tastatur drei ganze Zahlen ein. Eine der Nummern ist einzigartig. Die anderen beiden sind identisch. Zeige die Ordnungszahl der Zahl an, die sich von den anderen unterscheidet.
+Beispiel für 4 6 6:
+1
+
+Beispiel für 6 6 3:
+3
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss System.out.println() oder System.out.print() verwenden.
+•	Das Programm muss die Ordnungszahl der Zahl anzeigen, die sich von den anderen unterscheidet.
+•	Wenn alle Zahlen unterschiedlich sind, zeige nichts an.

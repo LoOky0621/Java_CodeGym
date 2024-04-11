@@ -1,0 +1,13 @@
+Zeige den folgenden Text an (zwei Zeilen):
+Das ist ein Windows-Pfad: "C:\Program Files\Java\jdk1.8.0_172\bin"
+Das ist eine Java-Zeichenkette: \"C:\\Program Files\\Java\\jdk1.8.0_172\\bin\"
+
+Hinweis:
+\" - Escape-Sequenz für ein doppeltes Anführungszeichen.
+\\ - Escape-Sequenz für ein Backslash-Zeichen (\).
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Es müssen zwei Zeilen angezeigt werden.
+•	Die erste Zeile des Textes muss lauten: Das ist ein Windows-Pfad: "C:\Program Files\Java\jdk1.8.0_172\bin"
+•	Die zweite Zeile des Textes muss lauten: Das ist eine Java-Zeichenkette: \"C:\\Program Files\\Java\\jdk1.8.0_172\\bin\"

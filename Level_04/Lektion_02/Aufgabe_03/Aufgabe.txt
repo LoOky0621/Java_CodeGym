@@ -1,0 +1,7 @@
+Schreibe die Methode katzenAnzahlFestlegen. Die Methode muss die Anzahl der Katzen (katzenAnzahl) festlegen.
+
+Anforderungen:
+•	Die Klasse Katze darf nur eine Variable katzenAnzahl haben.
+•	Die Variable katzenAnzahl muss ein static int sein, den Zugriffsmodifikator private haben und mit 0 initialisiert werden.
+•	Die Klasse Katze darf zwei Methoden enthalten: katzenAnzahlFestlegen und main.
+•	Die Methode katzenAnzahlFestlegen der Klasse Katze muss den Wert der Variable katzenAnzahl gleich dem übergebenen Parameter setzen.

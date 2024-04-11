@@ -1,0 +1,7 @@
+Gib über die Tastatur zwei ganze Zahlen ein und zeige die kleinere Zahl an. Wenn die beiden Zahlen gleich sind, zeige eine der beiden Zahlen an.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss eine Zahl auf dem Bildschirm anzeigen.
+•	Das Programm muss die kleinere von zwei ganzen Zahlen anzeigen.
+•	Wenn die beiden Zahlen gleich sind, zeige eine der beiden Zahlen an.

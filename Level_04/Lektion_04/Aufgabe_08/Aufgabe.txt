@@ -1,0 +1,16 @@
+Gib über die Tastatur drei Zahlen a, b und c (die Längen der Seiten des vorgeschlagenen Dreiecks) ein.
+Ermittle dann, ob ein Dreieck mit diesen Seiten existieren kann.
+Zeige das Ergebnis wie folgt an:
+„Das Dreieck ist möglich.“ – wenn ein Dreieck mit diesen Seiten existieren könnte.
+„Das Dreieck ist nicht möglich.“ – wenn ein Dreieck mit diesen Seiten nicht existieren kann.
+
+Hinweis:
+Ein Dreieck kann nur existieren, wenn die Summe von zwei seiner Seiten größer ist als die dritte Seite.
+Du musst jede Seite mit der Summe der beiden anderen vergleichen.
+Wenn auch nur eine Seite größer oder gleich der Summe der beiden anderen Seiten ist, dann existiert kein solches Dreieck.
+
+Anforderungen:
+•	Das Programm muss drei Zahlen von der Tastatur einlesen.
+•	Das Programm muss Text entsprechend den Aufgabenbedingungen auf dem Bildschirm anzeigen.
+•	Wenn ein Dreieck mit den angegebenen Seiten existieren könnte, musst du folgendes anzeigen: „Das Dreieck ist möglich.“
+•	Wenn ein Dreieck mit den angegebenen Seiten nicht existieren kann, musst du folgendes anzeigen: „Das Dreieck ist nicht möglich.“

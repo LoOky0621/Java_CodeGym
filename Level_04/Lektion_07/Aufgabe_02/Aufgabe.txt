@@ -1,0 +1,8 @@
+Kommentiere Variablen aus, die nirgendwo benutzt werden. Das Programm muss sich kompilieren lassen.
+
+Anforderungen:
+•	Du darfst die Typen der Variablen nicht ändern.
+•	Du darfst die Werte der Variablen nicht ändern.
+•	Füge im Programm keine Zeilen hinzu und lösche auch keine.
+•	Du musst die nicht verwendeten Variablen auskommentieren.
+•	Die Ausgabe des Programms sollte sich nicht ändern.

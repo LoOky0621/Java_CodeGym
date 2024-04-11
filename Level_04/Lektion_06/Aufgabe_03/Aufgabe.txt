@@ -1,0 +1,9 @@
+
+Gib über die Tastatur drei Zahlen ein und zeige sie in absteigender Reihenfolge an.
+Die angezeigten Zahlen müssen durch Leerzeichen getrennt sein.
+
+Anforderungen:
+•	Das Programm muss die Zahlen von der Tastatur einlesen.
+•	Das Programm muss Zahlen auf dem Bildschirm anzeigen.
+•	Das Programm muss drei Zahlen durch Leerzeichen getrennt anzeigen.
+•	Das Programm muss die Zahlen in absteigender Reihenfolge anzeigen.

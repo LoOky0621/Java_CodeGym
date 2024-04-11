@@ -1,0 +1,27 @@
+Die Fußgängerampel ist wie folgt programmiert:
+zu Beginn jeder Stunde leuchtet das grüne Signal drei Minuten lang,
+dann ist das Signal eine Minute lang gelb,
+und dann ist es eine Minute lang rot.
+Dann ist das Licht wieder für drei Minuten grün usw.
+Gib über die Tastatur eine reelle Zahl t ein, welche die Anzahl der Minuten angibt, die seit Beginn der Stunde verstrichen sind.
+Ermittle, welche Farbe die Ampel zum angegebenen Zeitpunkt zeigt.
+Zeige das Ergebnis wie folgt an:
+„grün“, wenn die Ampel grün ist,
+„gelb“, wenn die Ampel gelb ist und
+„rot“, wenn die Ampel rot ist.
+
+Beispiel für 2.5:
+grün
+Beispiel für 3:
+gelb
+Beispiel für 4:
+rot
+Beispiel für 5:
+grün
+
+Anforderungen:
+•	Das Programm muss eine reelle Zahl von der Tastatur einlesen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.
+•	Wenn die Ampel grün ist, zeige an: „grün“
+•	Wenn die Ampel gelb ist, zeige an: „gelb“
+•	Wenn die Ampel rot ist, zeige an: „rot

@@ -1,0 +1,13 @@
+Implementiere die Methode fussAusZollBerechnen(int zoll). Die Methode nimmt die Anzahl an Zoll entgegen. Deine Aufgabe ist es, dafür zu sorgen, dass die Methode die Anzahl der ganzen Fuß zurückgibt, die durch die Variable zoll repräsentiert wird. (1 Fuß = 12 Zoll).
+
+Betrachte dieses Beispiel:
+Die Methode fussAusZollBerechnen wird mit dem Parameter 243 aufgerufen.
+
+Beispiel-Ausgabe:
+20
+
+Anforderungen:
+•	Die Methode fussAusZollBerechnen(int) muss public und static sein.
+•	Die Methode fussAusZollBerechnen muss ein int zurückgeben.
+•	Die Methode fussAusZollBerechnen soll nichts anzeigen.
+•	Die Methode fussAusZollBerechnen muss die Anzahl der ganzen Fuß, die durch die Variable zoll repräsentiert wird, korrekt zurückgeben.

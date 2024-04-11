@@ -1,0 +1,11 @@
+Gib mit der Tastatur die Zahl n ein.
+Zeige den Satz „Ich werde n Euro pro Stunde verdienen“ auf dem Bildschirm an.
+
+Zum Beispiel:
+Ich werde 100 Euro pro Stunde verdienen
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Der angezeigte Text muss die eingegebene Zahl n enthalten.
+•	Der angezeigte Text muss die Aufgabenbedingungen vollständig erfüllen.

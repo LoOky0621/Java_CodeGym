@@ -1,0 +1,8 @@
+Zeige folgendes an: 日本語
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Der Text muss mit „日“ beginnen.
+•	Der Text muss mit „語“ enden.
+•	Der Text muss aus 3 Zeichen bestehen.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.

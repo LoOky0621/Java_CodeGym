@@ -1,0 +1,17 @@
+Erstelle 7 Objekte, um die 7 Farben des Regenbogens auf dem Bildschirm anzuzeigen.
+Beispiel-Ausgabe:
+Rot
+Orange
+Gelb
+Grün
+Blau
+Indigo
+Violett
+Jedes Objekt zeigt bei seiner Erstellung eine bestimmte Farbe an.
+
+Anforderungen:
+•	Das Programm soll Text ausgeben.
+•	Du musst 7 verschiedene Objekte anlegen, die für die Farben zuständig sind.
+•	Die Reihenfolge, in der die Objekte erstellt werden, muss der Reihenfolge der Farben im Regenbogen entsprechen.
+•	Führe keine Änderungen an den Klassen durch, die für die Farben verantwortlich sind.
+•	Der ausgegebene Text muss die Bedingungen der Aufgabe erfüllen.
