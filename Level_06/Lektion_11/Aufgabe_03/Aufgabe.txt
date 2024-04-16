@@ -1,0 +1,7 @@
+Verschiebe einen static-Modifikator, damit das Beispiel kompiliert wird.
+
+Anforderungen:
+•	Verändere nicht die main-Methode.
+•	Füge den static-Modifikator an der korrekten Stelle hinzu.
+•	Entferne den zusätzlichen static-Modifikator.
+•	Das Programm darf nur 2 static-Modifikatoren besitzen.

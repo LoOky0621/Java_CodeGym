@@ -1,0 +1,21 @@
+Das Programm muss ein vom Benutzer eingegebenes Gewicht in Kilogramm und eine Größe in Metern einlesen. Dann muss es eine Meldung über den Body-Mass-Index des Benutzers anzeigen.
+Implementiere eine static-Methode in der Klasse Koerper. Die Methode muss den Body-Mass-Index berechnen und die folgende Meldung anzeigen:
+„Untergewicht: BMI < 18,5“ - wenn der Body-Mass-Index kleiner als 18,5 ist,
+„Normalgewicht: 18,5 <= BMI < 25“ - wenn der Body-Mass-Index zwischen 18,5 und 25(nicht eingeschlossen) ist,
+„Übergewicht: 25 <= BMI < 30“ - wenn der Body-Mass-Index zwischen 25 und 30 (nicht eingeschlossen) ist,
+„Adipös: BMI >= 30“ - wenn der Body-Mass-Index 30 oder mehr beträgt.
+
+Hinweis:
+Body-Mass-Index (BMI) = Gewicht in kg / (Größe in Metern * Größe in Metern)
+
+Beispielausgabe für 68,4 und 1,77:
+Normalgewicht: 18,5 <= BMI < 25
+
+Anforderungen:
+•	Die Methode bmiBerechnen muss Text auf dem Bildschirm anzeigen.
+•	Die Methode bmiBerechnen muss „Untergewicht: BMI < 18,5“, wenn der Body-Mass-Index niedriger als 18,5 (nicht eingeschlossen) ist.
+•	Die Methode bmiBerechnen muss „Normalgewicht: 18,5 <= BMI < 25“ - wenn der Body-Mass-Index zwischen 18,5 und 25 (nicht eingeschlossen) ist.
+•	Die BMI-Berechnungsmethode muss „Übergewicht: 25 <= BMI < 30“ anzeigen - wenn der Body-Mass-Index zwischen 25 und 30 (nicht eingeschlossen) ist.
+•	Die Methode bmiBerechnen muss „Adipös: BMI >= 30“ anzeigen, wenn der Body-Mass-Index 30 oder mehr beträgt.
+
+INPUT: 86,5, 1,79

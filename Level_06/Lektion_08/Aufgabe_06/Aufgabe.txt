@@ -1,0 +1,13 @@
+Erstelle die Klasse Taschenrechner, die 5 static-Methoden besitzt:
+int plus(int a, int b) – gibt die Summe von a und b zurück
+int minus(int a, int b) - gibt die Differenz von a und b zurück
+int multiplizieren(int a, int b) - gibt das Produkt von a und b zurück
+double dividieren(int a, int b) - gibt das Ergebnis der Division von a durch b zurück
+double prozent(int a, int b) – gibt b Prozent der Zahl a zurück
+
+Anforderungen:
+•	Die plus-Methode muss die Summe von a und b zurückgeben.
+•	Die minus-Methode muss die Differenz zwischen a und b zurückgeben.
+•	Die multiplizieren-Methode muss das Produkt aus a und b zurückgeben.
+•	Die dividieren-Methode muss das Ergebnis der Division von a durch b zurückgeben.
+•	Die prozent-Methode muss b Prozent der Zahl a zurückgeben.

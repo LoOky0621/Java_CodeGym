@@ -1,0 +1,9 @@
+Aufgabe: Das Programm nimmt zwei Zahlen von der Tastatur entgegen und zeigt die größere Zahl mit einem Satz wie „Die größere Zahl ist 25“ an.
+
+Anforderungen:
+•	Das Programm muss Daten von der Tastatur einlesen.
+•	Das Programm muss das Ergebnis auf dem Bildschirm anzeigen.
+•	Der angezeigte Text muss mit "Die größere Zahl ist" beginnen.
+•	Der angezeigte Text muss mit der größeren der beiden eingegebenen Zahlen enden.
+
+INPUT: 98, 89

@@ -1,0 +1,10 @@
+1. Erstelle in der Klasse Solution die Klasse public static Idee
+2. Deklariere in der Klasse Idee die Methode public String beschreibungAbrufen(), die jede nicht leere Zeichenkette zurückgibt.
+3. Erstelle in der Klasse Solution die Methode static public void ideeAusdrucken(Idee idee), die eine Beschreibung der Idee anzeigt (was die Methode beschreibungAbrufen zurückgibt)
+
+Anforderungen:
+•	Lege in der Klasse Solution die Klasse public static Idee an.
+•	Erstelle in der Klasse Idee die Methode public String beschreibungAbrufen().
+•	Die Methode beschreibungAbrufen muss jede nicht leere Zeichenkette zurückgeben.
+•	Erstelle in der Klasse Solution die Methode public static void ideeAusdrucken(Idee idee).
+•	Die Methode ideeAusdrucken muss die Ideenbeschreibung auf dem Bildschirm anzeigen.

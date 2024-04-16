@@ -1,0 +1,23 @@
+Aufgabe: Schreibe ein Programm, das 5 Zahlen von der Tastatur liest und sie in aufsteigender Reihenfolge anzeigt.
+
+Beispiel-Eingabe:
+3
+2
+15
+6
+17
+
+Beispiel-Ausgabe:
+2
+3
+6
+15
+17
+
+Anforderungen:
+•	Das Programm muss 5 Zahlen von der Tastatur lesen.
+•	Das Programm muss 5 Zahlen anzeigen, jede auf einer neuen Zeile.
+•	Die Ausgabe muss die gleichen Zahlen enthalten, die eingegeben wurden (die Reihenfolge ist nicht wichtig).
+•	Die angezeigten Zahlen müssen in aufsteigender Reihenfolge sortiert werden.
+
+INPUT: 15, 48, 3, 11, 9

@@ -1,0 +1,9 @@
+Füge zwei static-Methoden zur Katze-Klasse hinzu: int getKatzenAnzahl() und setKatzenAnzahl(int), mit denen du die Anzahl der Katzen abfragen/ändern kannst (Variable katzenAnzahl).
+
+Anforderungen:
+•	Füge die Methode getKatzenAnzahl zur Klasse hinzu.
+•	Die Methode getKatzenAnzahl muss ein int zurückgeben.
+•	Die Methode getKatzenAnzahl muss den Wert der Variablen katzenAnzahl zurückgeben.
+•	Füge die Methode setKatzenAnzahl hinzu, die ein int in die Klasse aufnimmt.
+•	Die Methode setKatzenAnzahl darf nichts zurückgeben.
+•	Die Methode setKatzenAnzahl muss die Variable katzenAnzahl auf den übergebenen Wert setzen.

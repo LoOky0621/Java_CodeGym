@@ -1,0 +1,9 @@
+Implementiere die Methode static double abstandBerechnen(x1, y1, x2, y2). Sie muss den Abstand zwischen zwei Punkten berechnen.
+Verwende die Methode double Math.sqrt(double a), die die Quadratwurzel des übergebenen Parameters berechnet.
+
+Anforderungen:
+•	Die Methode abstandBerechnen muss ein double zurückgeben.
+•	Die Methode abstandBerechnen muss static sein.
+•	Die Methode abstandBerechnen muss public sein.
+•	Die Methode abstandBerechnen muss den Abstand zwischen den Punkten zurückgeben.
+•	Die Methode abstandBerechnen muss die Methode double Math.sqrt(double a) verwenden.

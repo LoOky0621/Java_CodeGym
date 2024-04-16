@@ -1,0 +1,38 @@
+Aufgabe: Jede Katze hat einen Namen und eine Mutter.
+Erstellee eine Klasse, die diese Situation beschreibt.
+Erstelle zwei Objekte: eine Tochterkatze und eine Mutter.
+Zeige sie auf dem Bildschirm an.
+
+Neue Aufgabe: Jede Katze hat einen Namen, einen Vater und eine Mutter.
+Bearbeite Katze so, dass sie diese Beziehungen widerspiegelt.
+Erstelle 6 Objekte: Großvater (Vater des Vaters), Großmutter (Mutter der Mutter), Vater, Mutter, Sohn, Tochter.
+Zeige sie alle in folgender Reihenfolge an: Großvater, Großmutter, Vater, Mutter, Sohn, Tochter.
+
+Beispiel-Eingabe:
+Großvater Tiger
+Großmutter Bella
+Vater Oscar
+Mutter Tara
+Sohn Simba
+Tochter Coco
+
+Beispiel-Ausgabe:
+Der Name der Katze ist Großvater Tiger, keine Mutter, kein Vater
+Der Name der Katze ist Großmutter Bella, keine Mutter, kein Vater
+Der Name der Katze ist Vater Oscar, keine Mutter, Großvater Tiger ist der Vater
+Der Name der Katze ist Mutter Tara, Großmutter Bella ist die Mutter, kein Vater
+Der Name der Katze ist Sohn Simba, Mutter Tara ist die Mutter, Vater Oscar ist der Vater
+Der Name der Katze ist Tochter Coco, Mutter Tara ist die Mutter, Vater Oscar ist der Vater
+
+Anforderungen:
+•	Das Programm muss die Namen von 6 Katzen in der angegebenen Reihenfolge einlesen.
+•	Die main-Methode muss 6 Katze-Objekte erstellen.
+•	Das Programm muss 6 Zeilen mit Informationen über die Katzen anzeigen.
+•	Die Zeile über den Großvater (erste Zeile) muss den Bedingungen entsprechen.
+•	Die Zeile über die Großmutter (zweite Zeile) muss den Bedingungen entsprechen.
+•	Die Zeile über den Vater (dritte Zeile) muss den Bedingungen entsprechen.
+•	Die Zeile über die Mutter (vierte Zeile) muss den Bedingungen entsprechen.
+•	Die Zeile über den Sohn (fünfte Zeile) muss den Bedingungen entsprechen.
+•	Die Zeile über die Tochter (sechste Zeile) muss den Bedingungen entsprechen.
+
+INPUT: Großvater Tiger, Großmutter Bella, Vater Oscar, Mutter Tara, Sohn Simba, Tochter Coco

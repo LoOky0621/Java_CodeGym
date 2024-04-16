@@ -1,0 +1,10 @@
+1. Füge in der Klasse Katze die public static ArrayList<Katze>-Variable katzen hinzu.
+2. Jedes Mal, wenn eine neue Katze (neues Katze-Objekt) erstellt wird, soll es zur Variable katzen hinzugefügt werden. Erstelle 10 Katze-Objekte.
+3. Die katzenAusdrucken-Methode muss alle Katzen auf dem Bildschirm anzeigen. Du musst die Variable katzen verwenden.
+
+Anforderungen:
+•	Füge die public static ArrayList<Katze>-Variable katzen zur Katze-Klasse hinzu.
+•	Die Variable katzen muss initialisiert werden.
+•	Die main-Methode muss 10 Katze-Objekte erstellen (verwende den Katze()-Konstruktor).
+•	Die main-Methode muss alle erstellten Katzen zu der Variable katzen hinzufügen.
+•	Die katzenAusdrucken-Methode muss alle Katze-Objekte in der Variable katzen anzeigen. Jedes in einer eigenen Zeile.

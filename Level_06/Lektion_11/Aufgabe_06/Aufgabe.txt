@@ -1,0 +1,8 @@
+Erstelle eine Klasse namens DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken. Lege ein Objekt dieser Klasse an und zeige es auf dem Bildschirm an.
+
+Anforderungen:
+•	Erstelle eine Klasse namens DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken innerhalb der Klasse Solution.
+•	Die Klasse DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken muss static sein.
+•	Die Klasse DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken muss public sein.
+•	Erstelle in der main-Methode ein Objekt der Klasse DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken.
+•	Zeige in der main-Methode das Objekt DuKannstMichAnMeinemGlänzendenRückwärtigenMetallantriebLecken auf dem Bildschirm an.

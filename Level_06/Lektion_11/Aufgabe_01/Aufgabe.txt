@@ -1,0 +1,9 @@
+Erstelle in der Klasse Katze eine static public int-Variable katzenAnzahl.
+Deklarieree einen Konstruktor, d.h. public Katze(). Jedes Mal, wenn eine neue Katze (neues Katze-Objekt) erstellt wird, erhöhe die static-Variable katzenAnzahl um 1. Erstelle 10 Katze-Objekte und zeige den Wert der Variable katzenAnzahl auf dem Bildschirm an.
+
+Anforderungen:
+•	Erstelle in der Klasse Katze eine static public int-Variable katzenAnzahl.
+•	Deklariere in der Klasse Katze den Konstruktor public Katze() ohne Parameter.
+•	Der Konstruktor muss den Wert der static-Variable katzenAnzahl um 1 erhöhen.
+•	Erstelle in der main-Methode 10 Katzen.
+•	Zeige in der main-Methode, nachdem du alle Katzen erstellt hast, den Wert der Variable katzenAnzahl an.

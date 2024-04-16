@@ -1,0 +1,7 @@
+Füge 3 public static-Variablen hinzu: String Solution.name, String Katze.name, String Hund.name.
+
+Anforderungen:
+•	Füge in der Klasse Solution die public static String-Variable name hinzu.
+•	Füge in der Katze-Klasse die public static String-Variable name hinzu.
+•	Füge in der Hund-Klasse die public static String-Variable name hinzu.
+•	Jede Klasse muss ihre eigene Variable mit der Bezeichnung name besitzen.

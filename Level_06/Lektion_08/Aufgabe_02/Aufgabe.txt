@@ -1,0 +1,9 @@
+Deklariere eine static int-Variable katzenAnzahl in der Klasse Katze. Deklariere einen Konstruktor, d.h. public Katze(), der diese Variable um 1 erhöht.
+
+Anforderungen:
+•	Füge einen Konstruktor zur Katze-Klasse hinzu.
+•	Der Konstruktor muss public sein.
+•	Füge das Feld katzenAnzahl zur Katze-Klasse hinzu.
+•	Das Feld katzenAnzahl muss ein int sein.
+•	Das Feld katzenAnzahl muss static sein.
+•	Der Konstruktor muss den Wert der Variablen katzenAnzahl um 1 erhöhen.

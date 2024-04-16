@@ -1,0 +1,7 @@
+Platziere die Mindestanzahl an static-Modifikatoren, die erforderlich ist, damit der Code funktioniert und das Programm erfolgreich abgeschlossen werden kann.
+
+Anforderungen:
+•	Ändere nicht die Methodenimplementierungen oder Zugriffsmodifikatoren.
+•	Füge static-Modifikatoren an den gewünschten Stellen hinzu.
+•	Das Programm darf nur 4 static-Modifikatoren besitzen.
+•	Das Programm muss Text auf dem Bildschirm ausgeben.

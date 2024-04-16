@@ -1,0 +1,13 @@
+Erstelle die Klasse ConsoleReader, die 4 static-Methoden besitzt:
+String stringLesen() – liest eine Zeichenkette von der Tastatur.
+int intLesen() – liest eine ganze Zahl von der Tastatur.
+double doubleLesen() – liest eine Bruchzahl von der Tastatur
+boolean booleanLesen() – liest die Zeichenkette „true“ oder „false“ von der Tastatur und gibt den jeweiligen booleschen Wert zurück (true oder false).
+
+Hinweis: Erstelle in jeder Methode eine Variable zum Lesen der Daten von der Konsole (BufferedReader oder Scanner).
+
+Anforderungen:
+•	Die stringLesen-Methode muss einen String lesen und zurückgeben.
+•	Die intLesen-Methode muss ein int lesen und zurückgeben.
+•	Die doubleLesen-Methode muss ein double lesen und zurückgeben.
+•	Die booleanLesen-Methode muss einen booleschen Wert lesen und zurückgeben.
