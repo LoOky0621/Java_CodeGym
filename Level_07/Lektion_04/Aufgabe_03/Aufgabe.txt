@@ -1,0 +1,24 @@
+1. Erstelle ein Array von 10 Zeichenketten.
+2. Erstelle ein Array von 10 Zahlen.
+3. Gib 10 Zeichenketten über die Tastatur ein und füge sie in ein Array von Zeichenketten ein.
+4. Notiere in jedem Element des Zahlen-Arrays die Länge der Zeichenkette, deren Index im Zeichenketten-Array mit dem aktuellen Index des Zahlen-Arrays übereinstimmt.
+
+Zeige den Inhalt des Zahlen-Arrays an, wobei jeder Wert in einer neuen Zeile steht.
+
+Requirements:
+•	Das Programm muss ein Array von 10 Zeichenketten erstellen.
+•	Das Programm muss ein Array von 10 Ganzzahlen erstellen.
+•	Das Programm muss Zeichenketten für das Array von der Tastatur lesen.
+•	Das Programm muss die Längen der Zeichenketten im Zahlen-Array notieren und sie dann auf dem Bildschirm anzeigen.
+
+INPUT:
+großvater
+großmutter
+vater
+mutter
+sohn
+tochter
+katze
+hund
+programm
+wagen

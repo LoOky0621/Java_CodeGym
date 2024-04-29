@@ -1,0 +1,14 @@
+1. Erstelle eine Liste von Zeichenketten.
+2. Füge 5 verschiedene Zeichenketten hinzu.
+3. Zeige ihre Größe auf dem Bildschirm an.
+4. Verwende eine Schleife, um ihren Inhalt anzuzeigen, jeden Wert in einer neuen Zeile.
+
+Hinweis:
+Füge der Liste Zeichenketten erst nach der Initialisierung der Liste hinzu.
+
+Requirements:
+•	Das Programm darf nichts von der Tastatur lesen.
+•	Deklariere eine ArrayList<String>-Variable und initialisiere sie sofort.
+•	Das Programm muss 5 beliebige Zeichenketten zur Liste hinzufügen.
+•	Das Programm muss die Größe der Liste auf dem Bildschirm anzeigen.
+•	Das Programm muss den Inhalt der Liste anzeigen, jeden Wert in einer neuen Zeile.

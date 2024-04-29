@@ -1,0 +1,17 @@
+1. Initialisiere die Liste der Zeichenketten.
+2. Lies 5 Zeichenketten von der Tastatur und füge sie zu dieser Liste hinzu.
+3. Suche mit einer Schleife die längste Zeichenkette in der Liste.
+4. Zeige die Zeichenkette an. Wenn es mehrere gibt, zeige diese jeweils in einer neuen Zeile an.
+
+Requirements:
+•	Initialisiere in der main-Methode das vorhandene Zeichenkettenfeld der Solution-Klasse zu einer neuen ArrayList<>.
+•	Das Programm muss 5 Zeichenketten von der Tastatur lesen und sie in die Liste der Zeichenketten schreiben.
+•	Das Programm muss die längste Zeichenkette anzeigen.
+•	Wenn es mehrere gibt, dann musst du jede von ihnen in einer neuen Zeile anzeigen.
+
+INPUT:
+großvater
+großmutter
+tochter
+programm
+wagen

@@ -1,0 +1,17 @@
+1. Erstelle eine Liste von Zeichenketten.
+2. Füge 5 Zeichenketten über die Tastatur hinzu.
+3. Führe den folgenden Schritt 13 mal aus: Entferne die letzte Zeichenkette und füge sie am Anfang ein.
+4. Verwende eine Schleife, um die resultierende Liste anzuzeigen, wobei jeder Wert in einer neuen Zeile steht.
+
+Requirements:
+•	Deklariere eine Zeichenkettenlistenvariable und initialisiere sie sofort.
+•	Das Programm muss 5 Zeichenketten von der Tastatur lesen.
+•	Entferne die letzte Zeichenkette und füge sie am Anfang ein. Wiederhole das 13 mal.
+•	Das Programm muss die Liste anzeigen, jeder Wert in einer neuen Zeile
+
+INPUT:
+großvater
+großmutter
+tochter
+programm
+wagen

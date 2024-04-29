@@ -1,0 +1,34 @@
+1. Erstelle ein Array von 15 Ganzzahlen.
+2. Fülle es mit Werten von der Tastatur.
+3. Sorge dafür, dass der Array-Index die Hausnummer widerspiegelt. Der Array-Wert an einem bestimmten Index stellt die Anzahl der Personen, die im entsprechenden Haus leben dar.
+Häuser mit ungeraden Nummern befinden sich auf einer Straßenseite. Die mit geraden Nummern sind auf der anderen Seite. Finde heraus, auf welcher Seite der Straße mehr Menschen leben.
+4. Zeige die folgende Meldung an: „Häuser mit ungerader Nummer haben mehr Einwohner“ oder „Häuser mit gerader Nummer haben mehr Einwohner“
+
+Hinweis:
+Das Haus an Index 0 wird als gerade betrachtet.
+
+5. Wenn die Anzahl der Anwohner auf beiden Seiten der Straße gleich ist, dann gib nichts aus.
+
+Requirements:
+•	Das Programm muss ein Array von 15 Ganzzahlen erstellen.
+•	Das Programm muss Zahlen für das Array von der Tastatur lesen.
+•	Das Programm muss „Häuser mit ungerader Nummer haben mehr Einwohner“ anzeigen, wenn die Summe der ungeraden Array-Elemente größer ist als die Summe der geraden.
+•	Das Programm muss „Häuser mit gerader Nummer haben mehr Einwohner“ anzeigen, wenn die Summe der geraden Array-Elemente größer ist als die Summe der ungeraden.
+•	Das Programm soll keinen Text auf der Konsole ausgeben, wenn die Anzahl der Bewohner auf beiden Seiten gleich ist.
+
+INPUT:
+5
+10
+16
+17
+9
+3
+4
+46
+97
+12
+45
+42
+98
+98
+71

@@ -1,0 +1,21 @@
+1. Erstelle ein Array von 10 Zahlen.
+2. Gib 10 Zahlen über die Tastatur ein und schreibe sie in das Array.
+3. Zeige die Elemente des Arrays in umgekehrter Reihenfolge an. Zeige jeden Wert auf einer neuen Zeile an.
+
+Requirements:
+•	Das Programm muss ein Array von 10 Ganzzahlen erstellen.
+•	Das Programm muss Zahlen für das Array von der Tastatur lesen.
+•	Das Programm muss 10 Werte anzeigen, jeden in einer neuen Zeile.
+•	Das Array muss in umgekehrter Reihenfolge angezeigt werden.
+
+INPUT:
+5
+10
+16
+17
+9
+3
+4
+46
+97
+89

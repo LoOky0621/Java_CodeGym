@@ -1,0 +1,21 @@
+1. Erstelle eine Liste von Zeichenketten in der main-Methode.
+2. Füge 10 Zeichenketten über die Tastatur hinzu, aber nur am Anfang der Liste, nicht am Ende.
+3. Verwende eine Schleife, um den Inhalt anzuzeigen, wobei jeder Wert in einer neuen Zeile steht.
+
+Requirements:
+•	Deklariere eine Zeichenkettenlistenvariable und initialisiere sie sofort.
+•	Das Programm muss 10 Zeichenketten von der Tastatur lesen und zur Liste hinzufügen.
+•	Das Programm muss Zeilen am Anfang der Liste hinzufügen.
+•	Das Programm muss die Liste anzeigen, jeder Wert in einer neuen Zeile.
+
+INPUT:
+großvater
+großmutter
+vater
+mutter
+sohn
+tochter
+katze
+hund
+programm
+wagen

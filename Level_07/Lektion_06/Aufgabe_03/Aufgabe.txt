@@ -1,0 +1,18 @@
+1. Erstelle eine Liste von Zeichenketten.
+2. Lies 5 Zeichenketten von der Tastatur und füge sie der Liste hinzu.
+3. Suche mit einer Schleife die kürzeste Zeichenkette in der Liste.
+4. Zeige die Zeichenkette an.
+5. Wenn es mehrere gibt, zeige diese jeweils in einer neuen Zeile an.
+
+Requirements:
+•	Deklariere eine Zeichenkettenlistenvariable und initialisiere sie sofort.
+•	Das Programm muss 5 Zeichenketten von der Tastatur lesen und sie in die Liste schreiben.
+•	Das Programm muss die kürzeste Zeichenkette anzeigen.
+•	Wenn es mehrere gibt, dann musst du jede von ihnen in einer neuen Zeile anzeigen.
+
+INPUT:
+großvater
+großmutter
+tochter
+programm
+wagen

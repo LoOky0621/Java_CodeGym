@@ -1,0 +1,32 @@
+1. In der Methode arrayInitialisieren():
+1.1. Erstelle ein Array von 20 Zahlen
+1.2. Lies 20 Zahlen von der Konsole ein und füge sie zum Array hinzu
+2. Die Methode max(int[] array) muss den höchsten Wert der Arrayelemente finden
+
+Requirements:
+•	Die Methode arrayInitialisieren muss ein Array von 20 Ganzzahlen erzeugen.
+•	Die Methode arrayInitialisieren muss 20 Zahlen einlesen und als Array zurückgeben.
+•	Die max-Methode muss das Element mit dem höchsten Wert im übergebenen Array zurückgeben.
+•	Verändere nicht die main-Method
+
+INPUT: 
+5
+10
+16
+17
+9
+3
+4
+46
+97
+89
+12
+45
+98
+111
+42
+98
+98
+-9
+71
+-150

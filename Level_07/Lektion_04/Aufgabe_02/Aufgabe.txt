@@ -1,0 +1,19 @@
+1. Erstelle ein Array von 10 Zeichenketten.
+2. Gib 8 Zeichenketten über die Tastatur ein und speichere sie im Array.
+3. Zeige den Inhalt des gesamten Arrays (10 Elemente) in umgekehrter Reihenfolge auf dem Bildschirm an. Jedes Element muss in einer eigenen Zeile erscheinen.
+
+Requirements:
+•	Das Programm muss ein Array von 10 Zeichenketten erstellen.
+•	Das Programm muss 8 Zeichenketten für das Array über die Tastatur lesen.
+•	Das Programm muss 10 Zeichenketten anzeigen, jede in einer neuen Zeile.
+•	Das Array der Zeichenketten (10 Elemente) muss in umgekehrter Reihenfolge angezeigt werden.
+
+INPUT:
+großvater
+großmutter
+vater
+mutter
+sohn
+tochter
+katze
+hund

@@ -1,0 +1,34 @@
+
+1. Erstelle ein Array von 20 Zahlen.
+2. Fülle es mit Werten von der Tastatur.
+3. Erstelle zwei Arrays von je 10 Zahlen.
+4. Kopiere das große Array in die beiden kleinen: die eine Hälfte der Zahlen in das erste kleine Array und die zweite Hälfte in das zweite kleine Array.
+5. Zeige das zweite kleine Array an, wobei jeder Wert in einer neuen Zeile steht.
+
+Requirements:
+•	Das Programm muss ein Array von 20 Ganzzahlen erstellen.
+•	Das Programm muss 20 Zahlen von der Tastatur für das große Array lesen.
+•	Das Programm muss zwei kleine Arrays von je 10 Zahlen erstellen.
+•	Das Programm muss die eine Hälfte des großen Arrays in das erste kleine Array kopieren, die zweite Hälfte in das zweite Array kopieren und dieses Array dann auf dem Bildschirm anzeigen.
+
+IPNUT:
+5
+10
+16
+17
+9
+3
+4
+46
+97
+89
+12
+45
+98
+111
+42
+98
+98
+-9
+71
+-150

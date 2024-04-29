@@ -1,0 +1,23 @@
+1. Erstelle eine Liste von Zeichenketten.
+2. Füge 10 Zeichenketten über die Tastatur hinzu.
+3. Finde heraus, welche Zeichenkette früher in der Liste vorkommt: die kürzeste oder die längste.
+Wenn es mehrere kürzeste oder längste Zeichenketten gibt, dann verwende die allererste dieser Zeichenketten, die auftritt.
+4. Zeige die in Schritt 3 beschriebene Zeichenkette an. Eine Zeichenkette muss angezeigt werden.
+
+Requirements:
+•	Deklariere eine Zeichenkettenlistenvariable und initialisiere sie sofort.
+•	Das Programm muss 10 Zeichenketten von der Tastatur lesen und zur Liste hinzufügen.
+•	Das Programm muss die kürzeste Zeichenkette anzeigen, wenn sie vor der längsten vorkommt.
+•	Das Programm muss die längste Zeichenkette anzeigen, wenn sie vor der kürzesten vorkommt.
+
+INPUT:
+großvater
+großmutter
+vater
+mutter
+sohn
+tochter
+katze
+hund
+programm
+wagen
